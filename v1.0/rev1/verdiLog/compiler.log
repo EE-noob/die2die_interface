@@ -1,0 +1,5638 @@
+*design* DebussyLib (btIdent Verdi_O-2018.09-SP2)
+Command arguments:
+    +define+verilog
+    ./aib_lib
+    ./how2use
+    ./maib_rtl
+    ./ndsimslv
+    ./novas.conf
+    ./novas.rc
+    ./README.txt
+    ./rtl
+    ./verdiLog
+
+
+*Error* source file './aib_lib' is a directory
+
+
+*Error* source file './how2use' is a directory
+
+
+*Error* source file './maib_rtl' is a directory
+
+
+*Error* source file './ndsimslv' is a directory
+
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.conf", 1: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.conf", 1: 
+
+*Error* Syntax error at \qBaseWindowRestoreStateGroup\qDockerWindow_defaultLayout\qDockerWindow_restoreNewChildState=true
+"./novas.conf", 2: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 3: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 4: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 5: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 6: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 7: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 8: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 9: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 10: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 11: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 12: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 13: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 14: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 15: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 16: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 17: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 18: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 19: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 20: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 21: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 22: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 23: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 24: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 25: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 26: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 27: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 28: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 29: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 30: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 31: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 32: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 33: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 34: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 35: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 36: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 37: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 38: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 39: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 40: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 41: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 42: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 43: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 44: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 45: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 46: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 47: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 48: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 49: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 50: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 51: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 52: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 53: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 54: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 55: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 56: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 57: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 58: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 59: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 60: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 61: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 62: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 63: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 64: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 65: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 66: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 67: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 68: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 69: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 70: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 71: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 72: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 73: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 74: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 75: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 76: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 77: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 78: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 79: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 80: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 81: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 82: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 83: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 84: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 85: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 86: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 87: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 88: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 89: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 90: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 91: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 92: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 93: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 94: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 95: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 96: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 97: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 98: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 99: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 100: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 101: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 102: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 103: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 104: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 105: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 106: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 107: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 108: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 109: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 110: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 111: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 112: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 113: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 114: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 115: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 116: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 117: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 118: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 119: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 120: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 121: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 122: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 123: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 124: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 125: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 126: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 127: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 128: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 129: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 130: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 131: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 132: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 133: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 134: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 135: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 136: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 137: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 138: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 139: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 140: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 141: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 142: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 143: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 144: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 145: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 146: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 147: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 148: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 149: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 150: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 151: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 152: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 153: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 154: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 155: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 156: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 157: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 158: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 159: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 160: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 161: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 162: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 163: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 164: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 165: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 166: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 167: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 168: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 169: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 170: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 171: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 172: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 173: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 174: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 175: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 176: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 177: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 178: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 179: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 180: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 181: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 182: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 183: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 184: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 185: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 186: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 187: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 188: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 189: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 190: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 191: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 192: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 193: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 194: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 195: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 196: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 197: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 198: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 199: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 200: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 201: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 202: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 203: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 204: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 205: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 206: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 207: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 208: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 209: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 210: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 211: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 212: 
+
+*Error* Syntax error at qDockerWindowMgr_C
+"./novas.conf", 213: 
+
+*Error* Syntax error at qDockerWindowMgr_C
+"./novas.conf", 214: 
+
+*Error* Syntax error at qDockerWindowMgr_C
+"./novas.conf", 215: 
+
+*Error* Syntax error at qDockerWindowMgr_C
+"./novas.conf", 216: 
+
+*Error* Syntax error at qDockerWindowMgr_C
+"./novas.conf", 217: 
+
+*Error* Syntax error at qDockerWindowMgr_C
+"./novas.conf", 218: 
+
+*Error* Syntax error at qDockerWindowMgr_C
+"./novas.conf", 219: 
+
+*Error* Syntax error at qDockerWindowMgr_C
+"./novas.conf", 220: 
+
+*Error* Syntax error at qDockerWindowMgr_C
+"./novas.conf", 221: 
+
+*Error* Syntax error at qDockerWindowMgr_C
+"./novas.conf", 222: 
+
+*Error* Syntax error at qDockerWindowMgr_C
+"./novas.conf", 223: 
+
+*Error* Syntax error at qDockerWindowMgr_C
+"./novas.conf", 224: 
+
+*Error* Syntax error at qDockerWindowMgr_C
+"./novas.conf", 225: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 226: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 227: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 228: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 229: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 230: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 231: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 232: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 233: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 234: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 235: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 236: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 237: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 238: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 239: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 240: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 241: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 242: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 243: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 244: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 245: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 246: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 247: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 248: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 249: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 250: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 251: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 252: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 253: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 254: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 255: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 256: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 257: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.conf", 259: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.conf", 259: 
+
+*Error* Syntax error at \Verdi_1\layout="@ByteArray(\0\0\0\xff\0\x3\x14Q\xfd\0\0\0\x2\0\0\0\x2\0\0\x3\x84\0\0\x1\x34\xfc\x1\0\0\0\x3\xfc\0\0\0\0\0\0\x1&\0\0\0\x89\0\xff\xff\xff\xfa\0\0\0\0\x1\0\0\0\x2\xfb\0\0\0.\0w\0i\0\x64\0g\0\x65\0t\0\x44\0o\0\x63\0k\0_\0<\0I\0n\0s\0t\0.\0_\0T\0r\0\x65\0\x65\0>\x1\0\0\0\0\xff\xff\xff\xff\0\0\0V\0\xff\xff\xff\xfb\0\0\0.\0w\0i\0\x64\0g\0\x65\0t\0\x44\0o\0\x63\0k\0_\0<\0\x44\0\x65\0\x63\0l\0.\0_\0T\0r\0\x65\0\x65\0>\x1\0\0\0\0\xff\xff\xff\xff\0\0\0V\0\xff\xff\xff\xfb\0\0\0\x30\0w\0i\0\x64\0g\0\x65\0t\0\x44\0o\0\x63\0k\0_\0<\0S\0i\0g\0n\0\x61\0l\0_\0L\0i\0s\0t\0>\0\0\0\0\xe9\0\0\0\xc6\0\0\0k\0\0\0k\xfb\0\0\0\x36\0w\0i\0\x64\0g\0\x65\0t\0\x44\0o\0\x63\0k\0_\0M\0T\0\x42\0_\0S\0O\0U\0R\0\x43\0\x45\0_\0T\0\x41\0\x42\0_\0\x31\x1\0\0\x1,\0\0\x2X\0\0\0k\0\xff\xff\xff\0\0\0\x3\0\0\x3\x84\0\0\x1\x34\xfc\x1\0\0\0\x1\xfc\0\0\0\0\0\0\x3\x84\0\0\x2,\0\xff\xff\xff\xfa\0\0\0\0\x1\0\0\0\x2\xfb\0\0\0(\0w\0i\0\x64\0g\0\x65\0t\0\x44\0o\0\x63\0k\0_\0<\0M\0\x65\0s\0s\0\x61\0g\0\x65\0>\x1\0\0\0\0\xff\xff\xff\xff\0\0\0\xa0\0\xff\xff\xff\xfb\0\0\0(\0w\0i\0n\0\x64\0o\0w\0\x44\0o\0\x63\0k\0_\0O\0n\0\x65\0S\0\x65\0\x61\0r\0\x63\0h\x1\0\0\0\0\xff\xff\xff\xff\0\0\x2,\0\xff\xff\xff\0\0\x3\x84\0\0\0\0\0\0\0\x4\0\0\0\x4\0\0\0\b\0\0\0\b\xfc\0\0\0\x6\0\0\0\x2\0\0\0\x10\0\0\0.\0H\0\x42\0_\0I\0M\0P\0O\0R\0T\0_\0\x43\0O\0M\0M\0\x41\0N\0\x44\0_\0P\0\x41\0N\0\x45\0L\x1\0\0\0\0\xff\xff\xff\xff\0\0\0\0\0\0\0\0\0\0\0(\0H\0\x42\0_\0N\0\x45\0W\0_\0\x43\0O\0M\0M\0\x41\0N\0\x44\0_\0P\0\x41\0N\0\x45\0L\x1\0\0\0$\xff\xff\xff\xff\0\0\0\0\0\0\0\0\0\0\0(\0H\0\x42\0_\0S\0I\0G\0N\0\x41\0L\0_\0P\0\x41\0N\0\x45\0_\0P\0\x41\0N\0\x45\0L\x1\0\0\0~\xff\xff\xff\xff\0\0\0\0\0\0\0\0\0\0\0$\0H\0\x42\0_\0M\0U\0L\0T\0I\0_\0T\0\x41\0\x42\0_\0P\0\x41\0N\0\x45\0L\x1\0\0\0\xa2\xff\xff\xff\xff\0\0\0\0\0\0\0\0\0\0\0*\0H\0\x42\0_\0\x45\0\x44\0I\0T\0_\0\x43\0O\0M\0M\0\x41\0N\0\x44\0_\0P\0\x41\0N\0\x45\0L\x1\0\0\0\xc6\xff\xff\xff\xff\0\0\0\0\0\0\0\0\0\0\0$\0N\0O\0V\0\x41\0S\0_\0T\0\x42\0\x42\0R\0_\0\x43\0O\0M\0M\0\x41\0N\0\x44\x1\0\0\0\xea\xff\xff\xff\xff\0\0\0\0\0\0\0\0\0\0\0,\0H\0\x42\0_\0T\0R\0\x41\0\x43\0\x45\0_\0\x43\0O\0M\0M\0\x41\0N\0\x44\0_\0P\0\x41\0N\0\x45\0L\x1\0\0\x1\x18\xff\xff\xff\xff\0\0\0\0\0\0\0\0\0\0\0.\0H\0\x42\0_\0S\0O\0U\0R\0\x43\0\x45\0_\0\x43\0O\0M\0M\0\x41\0N\0\x44\0_\0P\0\x41\0N\0\x45\0L\x1\0\0\x2/\xff\xff\xff\xff\0\0\0\0\0\0\0\0\0\0\0,\0t\0o\0o\0l\0\x62\0\x61\0r\0H\0\x42\0_\0T\0O\0G\0G\0L\0\x45\0_\0P\0\x41\0N\0\x45\0L\0\0\0\x3\x1\xff\xff\xff\xff\0\0\0\0\0\0\0\0\0\0\0\x32\0t\0o\0o\0l\0\x62\0\x61\0r\0H\0\x42\0_\0\x45\0M\0U\0L\0\x41\0T\0I\0O\0N\0_\0P\0\x41\0N\0\x45\0L\0\0\0\x2\xbb\xff\xff\xff\xff\0\0\0\0\0\0\0\0\0\0\0\x30\0t\0o\0o\0l\0\x62\0\x61\0r\0H\0\x42\0_\0P\0R\0O\0\x44\0T\0Y\0P\0\x45\0_\0P\0\x41\0N\0\x45\0L\0\0\0\x3\x16\xff\xff\xff\xff\0\0\0\0\0\0\0\0\0\0\0<\0\x41\0\x42\0V\0_\0\x41\0\x44\0\x44\0_\0T\0\x45\0M\0P\0O\0R\0\x41\0R\0Y\0_\0\x41\0S\0S\0\x45\0R\0T\0_\0P\0\x41\0N\0\x45\0L\0\0\0\x2\xe8\xff\xff\xff\xff\0\0\0\0\0\0\0\0\0\0\0\x1e\0U\0V\0M\0_\0\x41\0W\0\x41\0R\0\x45\0_\0\x44\0\x45\0\x42\0U\0G\0\0\0\x3\f\xff\xff\xff\xff\0\0\0\0\0\0\0\0\0\0\0
+"./novas.conf", 260: 
+
+*Error* Syntax error at window
+"./novas.conf", 261: 
+
+*Error* Syntax error at window
+"./novas.conf", 262: 
+
+*Error* Syntax error at window
+"./novas.conf", 263: 
+
+*Error* Syntax error at window
+"./novas.conf", 264: 
+
+*Error* Syntax error at window
+"./novas.conf", 265: 
+
+*Error* Syntax error at window
+"./novas.conf", 266: 
+
+*Error* Syntax error at window
+"./novas.conf", 267: 
+
+*Error* Syntax error at window
+"./novas.conf", 268: 
+
+*Error* Syntax error at window
+"./novas.conf", 269: 
+
+*Error* Syntax error at window
+"./novas.conf", 270: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.conf", 272: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.conf", 272: 
+
+*Error* Syntax error at 10
+"./novas.conf", 273: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.conf", 275: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.conf", 275: 
+
+*Warning* symbol Verdi_1 duplicated
+"./novas.conf", 276: 
+
+*Error* Syntax error at \position.x=499
+"./novas.conf", 276: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 277: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 278: 
+
+*Error* Syntax error at Verdi_1
+"./novas.conf", 279: 
+
+*Error* Syntax error at @
+"./novas.rc", 1: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 2: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 2: 
+
+*Error* Syntax error at .
+"./novas.rc", 3: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 4: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 4: 
+
+*Error* Syntax error at 3
+"./novas.rc", 5: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 6: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 6: 
+
+*Error* Syntax error at =
+"./novas.rc", 8: 
+
+*Error* Syntax error at Separator
+"./novas.rc", 9: 
+
+*Error* Syntax error at SimPromptSign
+"./novas.rc", 10: 
+
+*Error* Syntax error at HierNameLevel
+"./novas.rc", 11: 
+
+*Error* Syntax error at RunContinue
+"./novas.rc", 12: 
+
+*Error* Syntax error at Finish
+"./novas.rc", 13: 
+
+*Error* Syntax error at UseAbsTime
+"./novas.rc", 14: 
+
+*Error* Syntax error at NextTime
+"./novas.rc", 15: 
+
+*Error* Syntax error at NextNTime
+"./novas.rc", 16: 
+
+*Error* Syntax error at NextEvent
+"./novas.rc", 17: 
+
+*Error* Syntax error at Reset
+"./novas.rc", 18: 
+
+*Error* Syntax error at ObjPosBreak
+"./novas.rc", 19: 
+
+*Error* Syntax error at ObjNegBreak
+"./novas.rc", 20: 
+
+*Error* Syntax error at ObjAnyBreak
+"./novas.rc", 21: 
+
+*Error* Syntax error at ObjLevelBreak
+"./novas.rc", 22: 
+
+*Error* Syntax error at LineBreak
+"./novas.rc", 23: 
+
+*Error* Syntax error at AbsTimeBreak
+"./novas.rc", 24: 
+
+*Error* Syntax error at RelTimeBreak
+"./novas.rc", 25: 
+
+*Error* Syntax error at EnableBP
+"./novas.rc", 26: 
+
+*Error* Syntax error at DisableBP
+"./novas.rc", 27: 
+
+*Error* Syntax error at DeleteBP
+"./novas.rc", 28: 
+
+*Error* Syntax error at DeleteAllBP
+"./novas.rc", 29: 
+
+*Error* Syntax error at SimSetScope
+"./novas.rc", 30: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 31: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 31: 
+
+*Warning* symbol InvokeCommand duplicated
+"./novas.rc", 32: 
+
+*Error* Syntax error at FullFileName
+"./novas.rc", 33: 
+
+*Error* Syntax error at NeedTimeUnit
+"./novas.rc", 34: 
+
+*Error* Syntax error at NormalizeTimeUnit
+"./novas.rc", 35: 
+
+*Error* Syntax error at Separator
+"./novas.rc", 36: 
+
+*Error* Syntax error at HierNameLevel
+"./novas.rc", 37: 
+
+*Error* Syntax error at RunContinue
+"./novas.rc", 38: 
+
+*Error* Syntax error at Finish
+"./novas.rc", 39: 
+
+*Error* Syntax error at NextTime
+"./novas.rc", 40: 
+
+*Error* Syntax error at NextNTime
+"./novas.rc", 41: 
+
+*Error* Syntax error at NextEvent
+"./novas.rc", 42: 
+
+*Error* Syntax error at Reset
+"./novas.rc", 43: 
+
+*Error* Syntax error at ObjPosBreak
+"./novas.rc", 44: 
+
+*Error* Syntax error at ObjNegBreak
+"./novas.rc", 45: 
+
+*Error* Syntax error at ObjAnyBreak
+"./novas.rc", 46: 
+
+*Error* Syntax error at ObjLevelBreak
+"./novas.rc", 47: 
+
+*Error* Syntax error at LineBreak
+"./novas.rc", 48: 
+
+*Error* Syntax error at AbsTimeBreak
+"./novas.rc", 49: 
+
+*Error* Syntax error at RelTimeBreak
+"./novas.rc", 50: 
+
+*Error* Syntax error at EnableBP
+"./novas.rc", 51: 
+
+*Error* Syntax error at DisableBP
+"./novas.rc", 52: 
+
+*Error* Syntax error at DeleteBP
+"./novas.rc", 53: 
+
+*Error* Syntax error at DeleteAllBP
+"./novas.rc", 54: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 55: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 55: 
+
+*Warning* symbol InvokeCommand duplicated
+"./novas.rc", 56: 
+
+*Error* Syntax error at =
+"./novas.rc", 57: 
+
+*Error* Syntax error at Separator
+"./novas.rc", 58: 
+
+*Error* Syntax error at SimPromptSign
+"./novas.rc", 59: 
+
+*Error* Syntax error at HierNameLevel
+"./novas.rc", 60: 
+
+*Error* Syntax error at RunContinue
+"./novas.rc", 61: 
+
+*Error* Syntax error at Finish
+"./novas.rc", 62: 
+
+*Error* Syntax error at NextTime
+"./novas.rc", 63: 
+
+*Error* Syntax error at NextNTime
+"./novas.rc", 64: 
+
+*Error* Syntax error at NextEvent
+"./novas.rc", 65: 
+
+*Error* Syntax error at SimSetScope
+"./novas.rc", 66: 
+
+*Error* Syntax error at Reset
+"./novas.rc", 67: 
+
+*Error* Syntax error at ObjPosBreak
+"./novas.rc", 68: 
+
+*Error* Syntax error at ObjNegBreak
+"./novas.rc", 69: 
+
+*Error* Syntax error at ObjAnyBreak
+"./novas.rc", 70: 
+
+*Error* Syntax error at ObjLevelBreak
+"./novas.rc", 71: 
+
+*Error* Syntax error at LineBreak
+"./novas.rc", 72: 
+
+*Error* Syntax error at AbsTimeBreak
+"./novas.rc", 73: 
+
+*Error* Syntax error at RelTimeBreak
+"./novas.rc", 74: 
+
+*Error* Syntax error at EnableBP
+"./novas.rc", 75: 
+
+*Error* Syntax error at DisableBP
+"./novas.rc", 76: 
+
+*Error* Syntax error at DeleteBP
+"./novas.rc", 77: 
+
+*Error* Syntax error at DeleteAllBP
+"./novas.rc", 78: 
+
+*Error* Syntax error at FSDBInit
+"./novas.rc", 79: 
+
+*Error* Syntax error at FSDBDumpvars
+"./novas.rc", 80: 
+
+*Error* Syntax error at FSDBDumpsingle
+"./novas.rc", 81: 
+
+*Error* Syntax error at FSDBDumpvarsInFile
+"./novas.rc", 82: 
+
+*Error* Syntax error at FSDBDumpMem
+"./novas.rc", 83: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 84: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 84: 
+
+*Error* Syntax error at branch_limit_vector_display
+"./novas.rc", 86: 
+
+*Error* Syntax error at showgrid
+"./novas.rc", 87: 
+
+*Error* Syntax error at reuseFirst
+"./novas.rc", 88: 
+
+*Error* Syntax error at justify
+"./novas.rc", 89: 
+
+*Error* Syntax error at scrollbar_mode
+"./novas.rc", 90: 
+
+*Error* Syntax error at test_combo_left_truncate
+"./novas.rc", 91: 
+
+*Error* Syntax error at instance_combo_left_truncate
+"./novas.rc", 92: 
+
+*Error* Syntax error at loop_navigation
+"./novas.rc", 93: 
+
+*Error* Syntax error at condSubExpr
+"./novas.rc", 94: 
+
+*Error* Syntax error at tglMda
+"./novas.rc", 95: 
+
+*Error* Syntax error at linecoverable
+"./novas.rc", 96: 
+
+*Error* Syntax error at lineuncovered
+"./novas.rc", 97: 
+
+*Error* Syntax error at tglcoverable
+"./novas.rc", 98: 
+
+*Error* Syntax error at tgluncovered
+"./novas.rc", 99: 
+
+*Error* Syntax error at pendingMax
+"./novas.rc", 100: 
+
+*Error* Syntax error at show_full_more
+"./novas.rc", 101: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 102: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 102: 
+
+*Error* Syntax error at Assert
+"./novas.rc", 105: 
+
+*Error* Syntax error at Covergroup
+"./novas.rc", 106: 
+
+*Error* Syntax error at Line
+"./novas.rc", 107: 
+
+*Error* Syntax error at Condition
+"./novas.rc", 108: 
+
+*Error* Syntax error at Toggle
+"./novas.rc", 109: 
+
+*Error* Syntax error at FSM
+"./novas.rc", 110: 
+
+*Error* Syntax error at Branch
+"./novas.rc", 111: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 112: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 112: 
+
+*Error* Syntax error at [
+"./novas.rc", 114: 
+
+*Error* Syntax error at version
+"./novas.rc", 115: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 116: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 116: 
+
+*Error* Syntax error at EmacsFont
+"./novas.rc", 119: 
+
+*Error* Syntax error at EmacsBG
+"./novas.rc", 120: 
+
+*Error* Syntax error at EmacsFG
+"./novas.rc", 121: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 122: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 122: 
+
+*Error* Syntax error at saveAsDefault
+"./novas.rc", 124: 
+
+*Error* Syntax error at saveManually
+"./novas.rc", 125: 
+
+*Error* Syntax error at illegalBehavior
+"./novas.rc", 126: 
+
+*Error* Syntax error at DisplayExcludedItem
+"./novas.rc", 127: 
+
+*Error* Syntax error at adaptiveExclusion
+"./novas.rc", 128: 
+
+*Error* Syntax error at warningExcludeInstance
+"./novas.rc", 129: 
+
+*Error* Syntax error at favorite_exclude_annotation
+"./novas.rc", 130: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 131: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 131: 
+
+*Error* Syntax error at 336
+"./novas.rc", 132: 
+
+*Error* Syntax error at WndBk
+"./novas.rc", 133: 
+
+*Error* Syntax error at Background
+"./novas.rc", 134: 
+
+*Error* Syntax error at prefKey_Link
+"./novas.rc", 135: 
+
+*Error* Syntax error at prefKey_Link
+"./novas.rc", 136: 
+
+*Error* Syntax error at Trap
+"./novas.rc", 137: 
+
+*Error* Syntax error at Hilight
+"./novas.rc", 138: 
+
+*Error* Syntax error at Window
+"./novas.rc", 139: 
+
+*Error* Syntax error at Selected
+"./novas.rc", 140: 
+
+*Error* Syntax error at Trans
+"./novas.rc", 141: 
+
+*Error* Syntax error at State
+"./novas.rc", 142: 
+
+*Error* Syntax error at Init
+"./novas.rc", 143: 
+
+*Error* Syntax error at SmartTips
+"./novas.rc", 144: 
+
+*Error* Syntax error at VectorFont
+"./novas.rc", 145: 
+
+*Error* Syntax error at StopAskBkgndColor
+"./novas.rc", 146: 
+
+*Error* Syntax error at ShowStateAction
+"./novas.rc", 147: 
+
+*Error* Syntax error at ShowTransAction
+"./novas.rc", 148: 
+
+*Error* Syntax error at ShowTransCond
+"./novas.rc", 149: 
+
+*Error* Syntax error at StateLable
+"./novas.rc", 150: 
+
+*Error* Syntax error at StateValueRadix
+"./novas.rc", 151: 
+
+*Error* Syntax error at State
+"./novas.rc", 152: 
+
+*Error* Syntax error at State
+"./novas.rc", 153: 
+
+*Error* Syntax error at State
+"./novas.rc", 154: 
+
+*Error* Syntax error at State
+"./novas.rc", 155: 
+
+*Error* Syntax error at Init_State
+"./novas.rc", 156: 
+
+*Error* Syntax error at Init_State
+"./novas.rc", 157: 
+
+*Error* invalid token at ./novas.rc:261 (text was '-*dium')
+
+
+*Error* invalid token at ./novas.rc:261 (text was '-*')
+
+
+*Error* invalid token at ./novas.rc:261 (text was '-*')
+
+
+*Error* invalid token at ./novas.rc:261 (text was '-*')
+
+
+*Error* invalid token at ./novas.rc:261 (text was '-*o8859')
+
+
+*Error* Syntax error at Init_State
+"./novas.rc", 158: 
+
+*Error* Syntax error at Init_State
+"./novas.rc", 159: 
+
+*Error* Syntax error at Reset_State
+"./novas.rc", 160: 
+
+*Error* Syntax error at Reset_State
+"./novas.rc", 161: 
+
+*Error* Syntax error at Reset_State
+"./novas.rc", 162: 
+
+*Error* Syntax error at Reset_State
+"./novas.rc", 163: 
+
+*Error* Syntax error at Trap_State
+"./novas.rc", 164: 
+
+*Error* Syntax error at Trap_State
+"./novas.rc", 165: 
+
+*Error* Syntax error at Trap_State
+"./novas.rc", 166: 
+
+*Error* Syntax error at Trap_State
+"./novas.rc", 167: 
+
+*Error* Syntax error at State_Action
+"./novas.rc", 168: 
+
+*Error* Syntax error at State_Action
+"./novas.rc", 169: 
+
+*Error* Syntax error at State_Action
+"./novas.rc", 170: 
+
+*Error* Syntax error at State_Action
+"./novas.rc", 171: 
+
+*Error* Syntax error at Junction
+"./novas.rc", 172: 
+
+*Error* Syntax error at Junction
+"./novas.rc", 173: 
+
+*Error* Syntax error at Junction
+"./novas.rc", 174: 
+
+*Error* Syntax error at Junction
+"./novas.rc", 175: 
+
+*Error* Syntax error at Connection
+"./novas.rc", 176: 
+
+*Error* Syntax error at Connection
+"./novas.rc", 177: 
+
+*Error* Syntax error at Connection
+"./novas.rc", 178: 
+
+*Error* Syntax error at Connection
+"./novas.rc", 179: 
+
+*Error* Syntax error at prefKey_Port
+"./novas.rc", 180: 
+
+*Error* Syntax error at prefKey_Port
+"./novas.rc", 181: 
+
+*Error* Syntax error at prefKey_Port
+"./novas.rc", 182: 
+
+*Error* Syntax error at prefKey_Port
+"./novas.rc", 183: 
+
+*Error* Syntax error at Transition
+"./novas.rc", 184: 
+
+*Error* Syntax error at Transition
+"./novas.rc", 185: 
+
+*Error* Syntax error at Transition
+"./novas.rc", 186: 
+
+*Error* Syntax error at Transition
+"./novas.rc", 187: 
+
+*Error* Syntax error at Trans_Condition
+"./novas.rc", 188: 
+
+*Error* Syntax error at Trans_Condition
+"./novas.rc", 189: 
+
+*Error* Syntax error at Trans_Condition
+"./novas.rc", 190: 
+
+*Error* Syntax error at Trans_Condition
+"./novas.rc", 191: 
+
+*Error* Syntax error at Trans_Action
+"./novas.rc", 192: 
+
+*Error* Syntax error at Trans_Action
+"./novas.rc", 193: 
+
+*Error* Syntax error at Trans_Action
+"./novas.rc", 194: 
+
+*Error* Syntax error at Trans_Action
+"./novas.rc", 195: 
+
+*Error* Syntax error at SelectedSet
+"./novas.rc", 196: 
+
+*Error* Syntax error at SelectedSet
+"./novas.rc", 197: 
+
+*Error* Syntax error at SelectedSet
+"./novas.rc", 198: 
+
+*Error* Syntax error at SelectedSet
+"./novas.rc", 199: 
+
+*Error* Syntax error at StickSet
+"./novas.rc", 200: 
+
+*Error* Syntax error at StickSet
+"./novas.rc", 201: 
+
+*Error* Syntax error at StickSet
+"./novas.rc", 202: 
+
+*Error* Syntax error at StickSet
+"./novas.rc", 203: 
+
+*Error* Syntax error at HilightSet
+"./novas.rc", 204: 
+
+*Error* Syntax error at HilightSet
+"./novas.rc", 205: 
+
+*Error* Syntax error at HilightSet
+"./novas.rc", 206: 
+
+*Error* Syntax error at HilightSet
+"./novas.rc", 207: 
+
+*Error* Syntax error at ControlPoint
+"./novas.rc", 208: 
+
+*Error* Syntax error at ControlPoint
+"./novas.rc", 209: 
+
+*Error* Syntax error at ControlPoint
+"./novas.rc", 210: 
+
+*Error* Syntax error at Bundle
+"./novas.rc", 211: 
+
+*Error* Syntax error at Bundle
+"./novas.rc", 212: 
+
+*Error* Syntax error at Bundle
+"./novas.rc", 213: 
+
+*Error* Syntax error at Bundle
+"./novas.rc", 214: 
+
+*Error* Syntax error at QtBackground
+"./novas.rc", 215: 
+
+*Error* Syntax error at prefKey_Link
+"./novas.rc", 216: 
+
+*Error* Syntax error at prefKey_Link
+"./novas.rc", 217: 
+
+*Error* Syntax error at Selection
+"./novas.rc", 218: 
+
+*Error* Syntax error at Selection
+"./novas.rc", 219: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 220: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 220: 
+
+*Error* Syntax error at version
+"./novas.rc", 223: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 224: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 224: 
+
+*Error* Syntax error at TclAutoSource
+"./novas.rc", 226: 
+
+*Error* Syntax error at cmd_enter_form
+"./novas.rc", 227: 
+
+*Error* Syntax error at SyncBrowserDir
+"./novas.rc", 228: 
+
+*Error* Syntax error at version
+"./novas.rc", 229: 
+
+*Error* Syntax error at SignalCaseInSensitive
+"./novas.rc", 230: 
+
+*Error* Syntax error at ShowWndCtntDuringResizing
+"./novas.rc", 231: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 232: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 232: 
+
+*Error* Syntax error at app_default_font
+"./novas.rc", 235: 
+
+*Error* Syntax error at app_fixed_width_font
+"./novas.rc", 236: 
+
+*Error* Syntax error at text_encoding
+"./novas.rc", 237: 
+
+*Error* Syntax error at smart_resize
+"./novas.rc", 238: 
+
+*Error* Syntax error at smart_resize_child_limit
+"./novas.rc", 239: 
+
+*Error* Syntax error at tooltip_max_width
+"./novas.rc", 240: 
+
+*Error* Syntax error at tooltip_max_height
+"./novas.rc", 241: 
+
+*Error* Syntax error at tooltip_viewer_key
+"./novas.rc", 242: 
+
+*Error* Syntax error at tooltip_display_time
+"./novas.rc", 243: 
+
+*Error* Syntax error at bookmark_name_length_limit
+"./novas.rc", 244: 
+
+*Error* Syntax error at disable_tooltip
+"./novas.rc", 245: 
+
+*Error* Syntax error at auto_load_source
+"./novas.rc", 246: 
+
+*Error* Syntax error at max_array_size
+"./novas.rc", 247: 
+
+*Error* Syntax error at filter_when_typing
+"./novas.rc", 248: 
+
+*Error* Syntax error at filter_keep_children
+"./novas.rc", 249: 
+
+*Error* Syntax error at filter_syntax
+"./novas.rc", 250: 
+
+*Error* Syntax error at filter_keystroke_interval
+"./novas.rc", 251: 
+
+*Error* Syntax error at filter_case_sensitive
+"./novas.rc", 252: 
+
+*Error* Syntax error at filter_full_path
+"./novas.rc", 253: 
+
+*Error* Syntax error at load_detail_for_funcov
+"./novas.rc", 254: 
+
+*Error* Syntax error at sort_limit
+"./novas.rc", 255: 
+
+*Error* Syntax error at ignoreDBVersionChecking
+"./novas.rc", 256: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 257: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 257: 
+
+*Error* Syntax error at windowLayout
+"./novas.rc", 259: 
+
+*Error* Syntax error at import_filter
+"./novas.rc", 260: 
+
+*Error* Syntax error at *
+"./novas.rc", 260: 
+
+*Error* Syntax error at designTreeFont
+"./novas.rc", 261: 
+
+*Error* Syntax error at *
+"./novas.rc", 261: 
+
+*Error* invalid token at ./novas.rc:323 (text was '-*dium')
+
+
+*Error* invalid token at ./novas.rc:323 (text was '-*')
+
+
+*Error* invalid token at ./novas.rc:323 (text was '-*')
+
+
+*Error* invalid token at ./novas.rc:323 (text was '-*')
+
+
+*Error* invalid token at ./novas.rc:323 (text was '-*o8859')
+
+
+*Error* Syntax error at import_default_language
+"./novas.rc", 262: 
+
+*Error* Syntax error at import_filter_verilog
+"./novas.rc", 263: 
+
+*Error* Syntax error at *
+"./novas.rc", 263: 
+
+*Error* Syntax error at simulation_file_type
+"./novas.rc", 264: 
+
+*Error* Syntax error at *
+"./novas.rc", 264: 
+
+*Error* Syntax error at PrefetchViewableAnnot
+"./novas.rc", 265: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 266: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 266: 
+
+*Error* Syntax error at [
+"./novas.rc", 268: 
+
+*Error* Syntax error at SearchPriority
+"./novas.rc", 269: 
+
+*Error* Syntax error at bSkipStateCell
+"./novas.rc", 270: 
+
+*Error* Syntax error at bImportPowerInfo
+"./novas.rc", 271: 
+
+*Error* Syntax error at bSkipFFCell
+"./novas.rc", 272: 
+
+*Error* Syntax error at bScpecifyCellNameCase
+"./novas.rc", 273: 
+
+*Error* Syntax error at bSpecifyPinNameCase
+"./novas.rc", 274: 
+
+*Error* Syntax error at CellNameToCase
+"./novas.rc", 275: 
+
+*Error* Syntax error at PinNameToCase
+"./novas.rc", 276: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 277: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 277: 
+
+*Error* Syntax error at Background
+"./novas.rc", 279: 
+
+*Error* Syntax error at Comment
+"./novas.rc", 280: 
+
+*Error* Syntax error at Keyword
+"./novas.rc", 281: 
+
+*Error* Syntax error at UserKeyword
+"./novas.rc", 282: 
+
+*Error* Syntax error at Text
+"./novas.rc", 283: 
+
+*Error* Syntax error at SelText
+"./novas.rc", 284: 
+
+*Error* Syntax error at SelBackground
+"./novas.rc", 285: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 286: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 286: 
+
+*Error* Syntax error at .
+"./novas.rc", 287: 
+
+*Error* Syntax error at vital
+"./novas.rc", 288: 
+
+*Error* Syntax error at work
+"./novas.rc", 289: 
+
+*Error* Syntax error at std
+"./novas.rc", 290: 
+
+*Error* Syntax error at ieee
+"./novas.rc", 291: 
+
+*Error* Syntax error at synopsys
+"./novas.rc", 292: 
+
+*Error* Syntax error at silc
+"./novas.rc", 293: 
+
+*Error* Syntax error at ikos
+"./novas.rc", 294: 
+
+*Error* Syntax error at novas
+"./novas.rc", 295: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 296: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 296: 
+
+*Error* Syntax error at =
+"./novas.rc", 298: 
+
+*Error* Syntax error at ART_SRAM_SP
+"./novas.rc", 299: 
+
+*Error* Syntax error at ART_SRAM_DP
+"./novas.rc", 300: 
+
+*Error* Syntax error at VIR_SRAM_SP
+"./novas.rc", 301: 
+
+*Error* Syntax error at VIR_SRAM_DP
+"./novas.rc", 302: 
+
+*Error* Syntax error at VIR_RF_SP
+"./novas.rc", 303: 
+
+*Error* Syntax error at VIR_RF_DP
+"./novas.rc", 304: 
+
+*Error* Syntax error at VIR_STAR_SRAM_SP
+"./novas.rc", 305: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 306: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 306: 
+
+*Error* Syntax error at modules
+"./novas.rc", 308: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 309: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 309: 
+
+*Error* Syntax error at showCoverGroup
+"./novas.rc", 311: 
+
+*Error* Syntax error at showProperty
+"./novas.rc", 312: 
+
+*Error* Syntax error at showSequence
+"./novas.rc", 313: 
+
+*Error* Syntax error at showDollarUnit
+"./novas.rc", 314: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 315: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 315: 
+
+*Error* Syntax error at COURIER12
+"./novas.rc", 316: 
+
+*Error* Syntax error at Wave_value_window_font
+"./novas.rc", 317: 
+
+*Error* Syntax error at Wave_curve_window_font
+"./novas.rc", 318: 
+
+*Error* Syntax error at Wave_group_name_font
+"./novas.rc", 319: 
+
+*Error* Syntax error at Wave_ruler_value_font
+"./novas.rc", 320: 
+
+*Error* Syntax error at Wave_analog_ruler_value_font
+"./novas.rc", 321: 
+
+*Error* Syntax error at Wave_comment_string_font
+"./novas.rc", 322: 
+
+*Error* Syntax error at HB_designTreeFont
+"./novas.rc", 323: 
+
+*Error* Syntax error at nMemory_font
+"./novas.rc", 324: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 325: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 325: 
+
+*Error* Syntax error at name
+"./novas.rc", 327: 
+
+*Error* Syntax error at options
+"./novas.rc", 328: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 329: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 329: 
+
+*Error* Syntax error at RetentionSignal
+"./novas.rc", 331: 
+
+*Error* Syntax error at IsolationSignal
+"./novas.rc", 332: 
+
+*Error* Syntax error at LevelShiftedSignal
+"./novas.rc", 333: 
+
+*Error* Syntax error at PowerSwitchObject
+"./novas.rc", 334: 
+
+*Error* Syntax error at AlwaysOnObject
+"./novas.rc", 335: 
+
+*Error* Syntax error at PowerNet
+"./novas.rc", 336: 
+
+*Error* Syntax error at GroundNet
+"./novas.rc", 337: 
+
+*Error* Syntax error at SimulationOnly
+"./novas.rc", 338: 
+
+*Error* Syntax error at SRSN
+"./novas.rc", 339: 
+
+*Error* Syntax error at CNSSignal
+"./novas.rc", 340: 
+
+*Error* Syntax error at RPTRSignal
+"./novas.rc", 341: 
+
+*Error* Syntax error at AcknowledgeSignal
+"./novas.rc", 342: 
+
+*Error* Syntax error at BoundaryPort
+"./novas.rc", 343: 
+
+*Error* Syntax error at DisplayInstrumentedCell
+"./novas.rc", 344: 
+
+*Error* Syntax error at ShowCmdByFile
+"./novas.rc", 345: 
+
+*Error* Syntax error at ShowPstAnnot
+"./novas.rc", 346: 
+
+*Error* Syntax error at ShowIsoSymbol
+"./novas.rc", 347: 
+
+*Error* Syntax error at ExtractIsoSameNets
+"./novas.rc", 348: 
+
+*Error* Syntax error at AnnotateSignal
+"./novas.rc", 349: 
+
+*Error* Syntax error at HighlightPowerObject
+"./novas.rc", 350: 
+
+*Error* Syntax error at HighlightPowerDomain
+"./novas.rc", 351: 
+
+*Error* Syntax error at TraceThroughInstruLowPower
+"./novas.rc", 352: 
+
+*Error* Syntax error at BrightenPowerColorInSchematicWindow
+"./novas.rc", 353: 
+
+*Error* Syntax error at ShowAlias
+"./novas.rc", 354: 
+
+*Error* Syntax error at ShowVoltage
+"./novas.rc", 355: 
+
+*Error* Syntax error at MatchTreeNodesCaseInsensitive
+"./novas.rc", 356: 
+
+*Error* Syntax error at SearchHBNodeDynamically
+"./novas.rc", 357: 
+
+*Error* Syntax error at ContinueTracingSupplyOrLogicNet
+"./novas.rc", 358: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 359: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 359: 
+
+*Error* Syntax error at FileName
+"./novas.rc", 361: 
+
+*Error* Syntax error at PaperSize
+"./novas.rc", 362: 
+
+*Error* Syntax error at ColorPrint
+"./novas.rc", 363: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 364: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 364: 
+
+*Error* Syntax error at savePropStat
+"./novas.rc", 366: 
+
+*Error* Syntax error at savePropDtl
+"./novas.rc", 367: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 368: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 368: 
+
+*Error* Syntax error at 256
+"./novas.rc", 369: 
+
+*Error* Syntax error at QwUserAskDlg
+"./novas.rc", 370: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 371: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 371: 
+
+*Error* Syntax error at Cache
+"./novas.rc", 373: 
+
+*Error* Syntax error at 2
+"./novas.rc", 374: 
+
+*Error* Syntax error at 3
+"./novas.rc", 375: 
+
+*Error* Syntax error at 4
+"./novas.rc", 376: 
+
+*Error* Syntax error at 5
+"./novas.rc", 377: 
+
+*Error* Syntax error at 1
+"./novas.rc", 378: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 379: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 379: 
+
+*Error* Syntax error at scsOption
+"./novas.rc", 381: 
+
+*Error* Syntax error at xlPath
+"./novas.rc", 382: 
+
+*Error* Syntax error at xlOption
+"./novas.rc", 383: 
+
+*Error* Syntax error at ncPath
+"./novas.rc", 384: 
+
+*Error* Syntax error at ncOption
+"./novas.rc", 385: 
+
+*Error* Syntax error at osciPath
+"./novas.rc", 386: 
+
+*Error* Syntax error at osciOption
+"./novas.rc", 387: 
+
+*Error* Syntax error at vcsPath
+"./novas.rc", 388: 
+
+*Error* Syntax error at vcsOption
+"./novas.rc", 389: 
+
+*Error* Syntax error at mtiPath
+"./novas.rc", 390: 
+
+*Error* Syntax error at mtiOption
+"./novas.rc", 391: 
+
+*Error* Syntax error at vhncPath
+"./novas.rc", 392: 
+
+*Error* Syntax error at vhncOption
+"./novas.rc", 393: 
+
+*Error* Syntax error at mixncPath
+"./novas.rc", 394: 
+
+*Error* Syntax error at mixncOption
+"./novas.rc", 395: 
+
+*Error* Syntax error at speedsimPath
+"./novas.rc", 396: 
+
+*Error* Syntax error at speedsimOption
+"./novas.rc", 397: 
+
+*Error* Syntax error at mti_vlogPath
+"./novas.rc", 398: 
+
+*Error* Syntax error at mti_vlogOption
+"./novas.rc", 399: 
+
+*Error* Syntax error at vcs_mixPath
+"./novas.rc", 400: 
+
+*Error* Syntax error at vcs_mixOption
+"./novas.rc", 401: 
+
+*Error* Syntax error at scs_mixPath
+"./novas.rc", 402: 
+
+*Error* Syntax error at scs_mixOption
+"./novas.rc", 403: 
+
+*Error* Syntax error at interactiveDebugging
+"./novas.rc", 404: 
+
+*Error* Syntax error at KeepBreakPoints
+"./novas.rc", 405: 
+
+*Error* Syntax error at ScsDebugAll
+"./novas.rc", 406: 
+
+*Error* Syntax error at simType
+"./novas.rc", 407: 
+
+*Error* Syntax error at thirdpartyIdx
+"./novas.rc", 408: 
+
+*Error* Syntax error at iscCmdSep
+"./novas.rc", 409: 
+
+*Error* Syntax error at NoAppendOption
+"./novas.rc", 410: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 411: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 411: 
+
+*Error* Syntax error at xlOption
+"./novas.rc", 413: 
+
+*Error* Syntax error at ncPath
+"./novas.rc", 414: 
+
+*Error* Syntax error at ncOption
+"./novas.rc", 415: 
+
+*Error* Syntax error at vcsPath
+"./novas.rc", 416: 
+
+*Error* Syntax error at vcsOption
+"./novas.rc", 417: 
+
+*Error* Syntax error at mti_vlogPath
+"./novas.rc", 418: 
+
+*Error* Syntax error at mti_vlogOption
+"./novas.rc", 419: 
+
+*Error* Syntax error at mtiPath
+"./novas.rc", 420: 
+
+*Error* Syntax error at mtiOption
+"./novas.rc", 421: 
+
+*Error* Syntax error at vhncPath
+"./novas.rc", 422: 
+
+*Error* Syntax error at vhncOption
+"./novas.rc", 423: 
+
+*Error* Syntax error at speedsimPath
+"./novas.rc", 424: 
+
+*Error* Syntax error at speedsimOption
+"./novas.rc", 425: 
+
+*Error* Syntax error at mixncPath
+"./novas.rc", 426: 
+
+*Error* Syntax error at mixncOption
+"./novas.rc", 427: 
+
+*Error* Syntax error at scsPath
+"./novas.rc", 428: 
+
+*Error* Syntax error at scsOption
+"./novas.rc", 429: 
+
+*Error* Syntax error at vcs_mixPath
+"./novas.rc", 430: 
+
+*Error* Syntax error at vcs_mixOption
+"./novas.rc", 431: 
+
+*Error* Syntax error at scs_mixPath
+"./novas.rc", 432: 
+
+*Error* Syntax error at scs_mixOption
+"./novas.rc", 433: 
+
+*Error* Syntax error at vcs_svPath
+"./novas.rc", 434: 
+
+*Error* Syntax error at vcs_svOption
+"./novas.rc", 435: 
+
+*Error* Syntax error at simType
+"./novas.rc", 436: 
+
+*Error* Syntax error at thirdpartyIdx
+"./novas.rc", 437: 
+
+*Error* Syntax error at interactiveDebugging
+"./novas.rc", 438: 
+
+*Error* Syntax error at KeepBreakPoints
+"./novas.rc", 439: 
+
+*Error* Syntax error at iscCmdSep
+"./novas.rc", 440: 
+
+*Error* Syntax error at ScsDebugAll
+"./novas.rc", 441: 
+
+*Error* Syntax error at NoAppendOption
+"./novas.rc", 442: 
+
+*Error* Syntax error at invokeSimPath
+"./novas.rc", 443: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 444: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 444: 
+
+*Error* Syntax error at wordWrapOn
+"./novas.rc", 447: 
+
+*Error* Syntax error at viewReuse
+"./novas.rc", 448: 
+
+*Error* Syntax error at lineNumberOn
+"./novas.rc", 449: 
+
+*Error* Syntax error at warnOutdatedDlg
+"./novas.rc", 450: 
+
+*Error* Syntax error at showEncrypt
+"./novas.rc", 451: 
+
+*Error* Syntax error at loadInclude
+"./novas.rc", 452: 
+
+*Error* Syntax error at showColorForActive
+"./novas.rc", 453: 
+
+*Error* Syntax error at tabWidth
+"./novas.rc", 454: 
+
+*Error* Syntax error at editor
+"./novas.rc", 455: 
+
+*Error* Syntax error at reload
+"./novas.rc", 456: 
+
+*Error* Syntax error at sync_active_to_source
+"./novas.rc", 457: 
+
+*Error* Syntax error at navigateAsColored
+"./novas.rc", 458: 
+
+*Error* Syntax error at navigateCovered
+"./novas.rc", 459: 
+
+*Error* Syntax error at navigateUncovered
+"./novas.rc", 460: 
+
+*Error* Syntax error at navigateExcluded
+"./novas.rc", 461: 
+
+*Error* Syntax error at not_ask_for_source_path
+"./novas.rc", 462: 
+
+*Error* Syntax error at expandMacroOn
+"./novas.rc", 463: 
+
+*Error* Syntax error at expandMacroInstancesThreshold
+"./novas.rc", 464: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 465: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 465: 
+
+*Error* Syntax error at ohSimType
+"./novas.rc", 467: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 468: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 468: 
+
+*Error* Syntax error at [
+"./novas.rc", 470: 
+
+*Error* Syntax error at verbose_progress
+"./novas.rc", 471: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 472: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 472: 
+
+*Error* Syntax error at hdlLibrary
+"./novas.rc", 474: 
+
+*Error* Syntax error at viewport
+"./novas.rc", 475: 
+
+*Error* Syntax error at hdlOther
+"./novas.rc", 476: 
+
+*Error* Syntax error at hdlComment
+"./novas.rc", 477: 
+
+*Error* Syntax error at hdlKeyword
+"./novas.rc", 478: 
+
+*Error* Syntax error at hdlEntity
+"./novas.rc", 479: 
+
+*Error* Syntax error at hdlEntityInst
+"./novas.rc", 480: 
+
+*Error* Syntax error at hdlSignal
+"./novas.rc", 481: 
+
+*Error* Syntax error at hdlInSignal
+"./novas.rc", 482: 
+
+*Error* Syntax error at hdlOutSignal
+"./novas.rc", 483: 
+
+*Error* Syntax error at hdlInOutSignal
+"./novas.rc", 484: 
+
+*Error* Syntax error at hdlOperator
+"./novas.rc", 485: 
+
+*Error* Syntax error at hdlMinus
+"./novas.rc", 486: 
+
+*Error* Syntax error at hdlSymbol
+"./novas.rc", 487: 
+
+*Error* Syntax error at hdlString
+"./novas.rc", 488: 
+
+*Error* Syntax error at hdlNumberBase
+"./novas.rc", 489: 
+
+*Error* Syntax error at hdlNumber
+"./novas.rc", 490: 
+
+*Error* Syntax error at hdlLiteral
+"./novas.rc", 491: 
+
+*Error* Syntax error at hdlIdentifier
+"./novas.rc", 492: 
+
+*Error* Syntax error at hdlSystemTask
+"./novas.rc", 493: 
+
+*Error* Syntax error at hdlParameter
+"./novas.rc", 494: 
+
+*Error* Syntax error at hdlIncFile
+"./novas.rc", 495: 
+
+*Error* Syntax error at hdlDataFile
+"./novas.rc", 496: 
+
+*Error* Syntax error at hdlCDSkipIf
+"./novas.rc", 497: 
+
+*Error* Syntax error at hdlMacro
+"./novas.rc", 498: 
+
+*Error* Syntax error at hdlMacroValue
+"./novas.rc", 499: 
+
+*Error* Syntax error at hdlPlainText
+"./novas.rc", 500: 
+
+*Error* Syntax error at hdlOvaId
+"./novas.rc", 501: 
+
+*Error* Syntax error at hdlPslId
+"./novas.rc", 502: 
+
+*Error* Syntax error at HvlEId
+"./novas.rc", 503: 
+
+*Error* Syntax error at HvlVERAId
+"./novas.rc", 504: 
+
+*Error* Syntax error at hdlEscSignal
+"./novas.rc", 505: 
+
+*Error* Syntax error at hdlEscInSignal
+"./novas.rc", 506: 
+
+*Error* Syntax error at hdlEscOutSignal
+"./novas.rc", 507: 
+
+*Error* Syntax error at hdlEscInOutSignal
+"./novas.rc", 508: 
+
+*Error* Syntax error at textBackgroundColor
+"./novas.rc", 509: 
+
+*Error* Syntax error at textHiliteBK
+"./novas.rc", 510: 
+
+*Error* Syntax error at textHiliteText
+"./novas.rc", 511: 
+
+*Error* Syntax error at textTracedMark
+"./novas.rc", 512: 
+
+*Error* Syntax error at textLineNo
+"./novas.rc", 513: 
+
+*Error* Syntax error at textFoldedLineNo
+"./novas.rc", 514: 
+
+*Error* Syntax error at textUserKeyword
+"./novas.rc", 515: 
+
+*Error* Syntax error at textParaAnnotText
+"./novas.rc", 516: 
+
+*Error* Syntax error at textFuncAnnotText
+"./novas.rc", 517: 
+
+*Error* Syntax error at textAnnotText
+"./novas.rc", 518: 
+
+*Error* Syntax error at textUserDefAnnotText
+"./novas.rc", 519: 
+
+*Error* Syntax error at ComputedSignal
+"./novas.rc", 520: 
+
+*Error* Syntax error at textAnnotTextShadow
+"./novas.rc", 521: 
+
+*Error* Syntax error at parenthesisBGColor
+"./novas.rc", 522: 
+
+*Error* Syntax error at codeInParenthesis
+"./novas.rc", 523: 
+
+*Error* Syntax error at text3DLight
+"./novas.rc", 524: 
+
+*Error* Syntax error at text3DShadow
+"./novas.rc", 525: 
+
+*Error* Syntax error at textHvlDriver
+"./novas.rc", 526: 
+
+*Error* Syntax error at textHvlLoad
+"./novas.rc", 527: 
+
+*Error* Syntax error at textHvlDriverLoad
+"./novas.rc", 528: 
+
+*Error* Syntax error at irOutline
+"./novas.rc", 529: 
+
+*Error* Syntax error at irDriver
+"./novas.rc", 530: 
+
+*Error* Syntax error at irLoad
+"./novas.rc", 531: 
+
+*Error* Syntax error at irBookMark
+"./novas.rc", 532: 
+
+*Error* Syntax error at irIndicator
+"./novas.rc", 533: 
+
+*Error* Syntax error at irBreakpoint
+"./novas.rc", 534: 
+
+*Error* Syntax error at irCurLine
+"./novas.rc", 535: 
+
+*Error* Syntax error at hdlVhEntity
+"./novas.rc", 536: 
+
+*Error* Syntax error at hdlArchitecture
+"./novas.rc", 537: 
+
+*Error* Syntax error at hdlPackage
+"./novas.rc", 538: 
+
+*Error* Syntax error at hdlRefPackage
+"./novas.rc", 539: 
+
+*Error* Syntax error at hdlAlias
+"./novas.rc", 540: 
+
+*Error* Syntax error at hdlGeneric
+"./novas.rc", 541: 
+
+*Error* Syntax error at specialAnnotShadow
+"./novas.rc", 542: 
+
+*Error* Syntax error at hdlZeroInHead
+"./novas.rc", 543: 
+
+*Error* Syntax error at hdlZeroInComment
+"./novas.rc", 544: 
+
+*Error* Syntax error at hdlPslHead
+"./novas.rc", 545: 
+
+*Error* Syntax error at hdlPslComment
+"./novas.rc", 546: 
+
+*Error* Syntax error at hdlSynopsysHead
+"./novas.rc", 547: 
+
+*Error* Syntax error at hdlSynopsysComment
+"./novas.rc", 548: 
+
+*Error* Syntax error at pdmlIdentifier
+"./novas.rc", 549: 
+
+*Error* Syntax error at pdmlCommand
+"./novas.rc", 550: 
+
+*Error* Syntax error at pdmlMacro
+"./novas.rc", 551: 
+
+*Error* Syntax error at font
+"./novas.rc", 552: 
+
+*Error* Syntax error at annotFont
+"./novas.rc", 553: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 554: 
+
+*Error* Syntax error at 1
+"./novas.rc", 554: 
+
+*Error* Syntax error at viewport
+"./novas.rc", 555: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 556: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 556: 
+
+*Warning* symbol Orientation duplicated
+"./novas.rc", 557: 
+
+*Error* Syntax error at Indicator
+"./novas.rc", 558: 
+
+*Error* Syntax error at LineNum
+"./novas.rc", 559: 
+
+*Error* Syntax error at FontSize
+"./novas.rc", 560: 
+
+*Error* Syntax error at Column
+"./novas.rc", 561: 
+
+*Error* Syntax error at Annotation
+"./novas.rc", 562: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 563: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 563: 
+
+*Error* Syntax error at TexteditorBG
+"./novas.rc", 565: 
+
+*Error* Syntax error at TexteditorFG
+"./novas.rc", 566: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 567: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 567: 
+
+*Error* Syntax error at surefire
+"./novas.rc", 568: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 569: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 569: 
+
+*Error* Syntax error at Button1
+"./novas.rc", 572: 
+
+*Error* Syntax error at Button2
+"./novas.rc", 573: 
+
+*Error* Syntax error at Button3
+"./novas.rc", 574: 
+
+*Error* Syntax error at Button4
+"./novas.rc", 575: 
+
+*Error* Syntax error at Button5
+"./novas.rc", 576: 
+
+*Error* Syntax error at Button6
+"./novas.rc", 577: 
+
+*Error* Syntax error at Button7
+"./novas.rc", 578: 
+
+*Error* Syntax error at Button8
+"./novas.rc", 579: 
+
+*Error* Syntax error at Button9
+"./novas.rc", 580: 
+
+*Error* Syntax error at Button10
+"./novas.rc", 581: 
+
+*Error* Syntax error at Button11
+"./novas.rc", 582: 
+
+*Error* Syntax error at Button12
+"./novas.rc", 583: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 584: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 584: 
+
+*Error* Syntax error at "fsdbDumpvars\n"
+"./novas.rc", 585: 
+
+*Error* Syntax error at Button2
+"./novas.rc", 586: 
+
+*Error* Syntax error at Button3
+"./novas.rc", 587: 
+
+*Error* Syntax error at Button4
+"./novas.rc", 588: 
+
+*Error* Syntax error at Button5
+"./novas.rc", 589: 
+
+*Error* Syntax error at Button6
+"./novas.rc", 590: 
+
+*Error* Syntax error at Button7
+"./novas.rc", 591: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 592: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 592: 
+
+*Warning* symbol Button1 duplicated
+"./novas.rc", 593: 
+
+*Error* Syntax error at "fsdbDumpvars\n"
+"./novas.rc", 593: 
+
+*Error* Syntax error at Button2
+"./novas.rc", 594: 
+
+*Error* Syntax error at Button3
+"./novas.rc", 595: 
+
+*Error* Syntax error at Button4
+"./novas.rc", 596: 
+
+*Error* Syntax error at Button5
+"./novas.rc", 597: 
+
+*Error* Syntax error at Button6
+"./novas.rc", 598: 
+
+*Error* Syntax error at Button7
+"./novas.rc", 599: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 600: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 600: 
+
+*Warning* symbol Button1 duplicated
+"./novas.rc", 601: 
+
+*Error* Syntax error at "call fsdbDumpvars\n"
+"./novas.rc", 601: 
+
+*Error* Syntax error at Button2
+"./novas.rc", 602: 
+
+*Error* Syntax error at Button3
+"./novas.rc", 603: 
+
+*Error* Syntax error at Button4
+"./novas.rc", 604: 
+
+*Error* Syntax error at Button5
+"./novas.rc", 605: 
+
+*Error* Syntax error at Button6
+"./novas.rc", 606: 
+
+*Error* Syntax error at Button7
+"./novas.rc", 607: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 608: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 608: 
+
+*Warning* symbol Button1 duplicated
+"./novas.rc", 609: 
+
+*Error* Syntax error at "call fsdbDumpvars(0, \"${TopScope}\");\n"
+"./novas.rc", 609: 
+
+*Error* Syntax error at Button2
+"./novas.rc", 610: 
+
+*Error* Syntax error at Button3
+"./novas.rc", 611: 
+
+*Error* Syntax error at Button4
+"./novas.rc", 612: 
+
+*Error* Syntax error at Button5
+"./novas.rc", 613: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 614: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 614: 
+
+*Warning* symbol Button1 duplicated
+"./novas.rc", 615: 
+
+*Error* Syntax error at "call fsdbDumpvars\n"
+"./novas.rc", 615: 
+
+*Error* Syntax error at Button2
+"./novas.rc", 616: 
+
+*Error* Syntax error at Button3
+"./novas.rc", 617: 
+
+*Error* Syntax error at Button4
+"./novas.rc", 618: 
+
+*Error* Syntax error at Button5
+"./novas.rc", 619: 
+
+*Error* Syntax error at Button6
+"./novas.rc", 620: 
+
+*Error* Syntax error at Button7
+"./novas.rc", 621: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 622: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 622: 
+
+*Error* Syntax error at "$fsdbDumpoff;\n"
+"./novas.rc", 623: 
+
+*Error* Syntax error at Button12
+"./novas.rc", 624: 
+
+*Error* Syntax error at Button11
+"./novas.rc", 625: 
+
+*Error* Syntax error at Button10
+"./novas.rc", 626: 
+
+*Error* Syntax error at Button9
+"./novas.rc", 627: 
+
+*Error* Syntax error at Button8
+"./novas.rc", 628: 
+
+*Error* Syntax error at Button7
+"./novas.rc", 629: 
+
+*Error* Syntax error at Button6
+"./novas.rc", 630: 
+
+*Error* Syntax error at Button5
+"./novas.rc", 631: 
+
+*Error* Syntax error at Button4
+"./novas.rc", 632: 
+
+*Error* Syntax error at Button3
+"./novas.rc", 633: 
+
+*Error* Syntax error at Button2
+"./novas.rc", 634: 
+
+*Error* Syntax error at Button1
+"./novas.rc", 635: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 636: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 636: 
+
+*Error* Syntax error at [
+"./novas.rc", 638: 
+
+*Error* Syntax error at DefaultDisplayTimeUnit
+"./novas.rc", 639: 
+
+*Error* Syntax error at DefaultLogTimeUnit
+"./novas.rc", 640: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 641: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 641: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 642: 
+
+*Error* usage of Multi Dimension Vector is supported only if the option '-sv' is specified
+"./novas.rc", 641: 
+
+*Error* Syntax error at [
+"./novas.rc", 644: 
+
+*Error* Syntax error at name
+"./novas.rc", 645: 
+
+*Error* Syntax error at width
+"./novas.rc", 646: 
+
+*Error* Syntax error at visualIndex
+"./novas.rc", 647: 
+
+*Error* Syntax error at isHidden
+"./novas.rc", 648: 
+
+*Error* Syntax error at isUserChangeColumnVisible
+"./novas.rc", 649: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 650: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 650: 
+
+*Error* Syntax error at width
+"./novas.rc", 652: 
+
+*Error* Syntax error at visualIndex
+"./novas.rc", 653: 
+
+*Error* Syntax error at isHidden
+"./novas.rc", 654: 
+
+*Error* Syntax error at isUserChangeColumnVisible
+"./novas.rc", 655: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 656: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 656: 
+
+*Warning* symbol name duplicated
+"./novas.rc", 657: 
+
+*Error* Syntax error at width
+"./novas.rc", 658: 
+
+*Error* Syntax error at visualIndex
+"./novas.rc", 659: 
+
+*Error* Syntax error at isHidden
+"./novas.rc", 660: 
+
+*Error* Syntax error at isUserChangeColumnVisible
+"./novas.rc", 661: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 662: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 662: 
+
+*Warning* symbol name duplicated
+"./novas.rc", 663: 
+
+*Error* Syntax error at width
+"./novas.rc", 664: 
+
+*Error* Syntax error at visualIndex
+"./novas.rc", 665: 
+
+*Error* Syntax error at isHidden
+"./novas.rc", 666: 
+
+*Error* Syntax error at isUserChangeColumnVisible
+"./novas.rc", 667: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 668: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 668: 
+
+*Warning* symbol name duplicated
+"./novas.rc", 669: 
+
+*Error* Syntax error at width
+"./novas.rc", 670: 
+
+*Error* Syntax error at visualIndex
+"./novas.rc", 671: 
+
+*Error* Syntax error at isHidden
+"./novas.rc", 672: 
+
+*Error* Syntax error at isUserChangeColumnVisible
+"./novas.rc", 673: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 674: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 674: 
+
+*Error* Syntax error at ViBG
+"./novas.rc", 676: 
+
+*Error* Syntax error at ViFG
+"./novas.rc", 677: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 678: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 678: 
+
+*Error* Syntax error at ID_CYAN5
+"./novas.rc", 679: 
+
+*Error* Syntax error at ovaEventFailureColor
+"./novas.rc", 680: 
+
+*Error* Syntax error at ovaBooleanSuccessColor
+"./novas.rc", 681: 
+
+*Error* Syntax error at ovaBooleanFailureColor
+"./novas.rc", 682: 
+
+*Error* Syntax error at ovaAssertSuccessColor
+"./novas.rc", 683: 
+
+*Error* Syntax error at ovaAssertFailureColor
+"./novas.rc", 684: 
+
+*Error* Syntax error at ovaForbidSuccessColor
+"./novas.rc", 685: 
+
+*Error* Syntax error at SigGroupRuleFile
+"./novas.rc", 686: 
+
+*Error* Syntax error at DisplayFileName
+"./novas.rc", 687: 
+
+*Error* Syntax error at waveform_vertical_scroll_bar
+"./novas.rc", 688: 
+
+*Error* Syntax error at viewPort
+"./novas.rc", 689: 
+
+*Error* Syntax error at signalSpacing
+"./novas.rc", 690: 
+
+*Error* Syntax error at digitalSignalHeight
+"./novas.rc", 691: 
+
+*Error* Syntax error at analogSignalHeight
+"./novas.rc", 692: 
+
+*Error* Syntax error at commentSignalHeight
+"./novas.rc", 693: 
+
+*Error* Syntax error at transactionSignalHeight
+"./novas.rc", 694: 
+
+*Error* Syntax error at messageSignalHeight
+"./novas.rc", 695: 
+
+*Error* Syntax error at minCompErrWidth
+"./novas.rc", 696: 
+
+*Error* Syntax error at DragZoomTolerance
+"./novas.rc", 697: 
+
+*Error* Syntax error at maxTransExpandedLayer
+"./novas.rc", 698: 
+
+*Error* Syntax error at WaveMaxPoint
+"./novas.rc", 699: 
+
+*Error* Syntax error at legendBackground
+"./novas.rc", 700: 
+
+*Error* Syntax error at valueBackground
+"./novas.rc", 701: 
+
+*Error* Syntax error at curveBackground
+"./novas.rc", 702: 
+
+*Error* Syntax error at getSignalSignalList_BackgroundColor
+"./novas.rc", 703: 
+
+*Error* Syntax error at glitchColor
+"./novas.rc", 704: 
+
+*Error* Syntax error at cursor
+"./novas.rc", 705: 
+
+*Error* Syntax error at marker
+"./novas.rc", 706: 
+
+*Error* Syntax error at usermarker
+"./novas.rc", 707: 
+
+*Error* Syntax error at trace
+"./novas.rc", 708: 
+
+*Error* Syntax error at grid
+"./novas.rc", 709: 
+
+*Error* Syntax error at rulerBackground
+"./novas.rc", 710: 
+
+*Error* Syntax error at rulerForeground
+"./novas.rc", 711: 
+
+*Error* Syntax error at busTextColor
+"./novas.rc", 712: 
+
+*Error* Syntax error at legendForeground
+"./novas.rc", 713: 
+
+*Error* Syntax error at valueForeground
+"./novas.rc", 714: 
+
+*Error* Syntax error at curveForeground
+"./novas.rc", 715: 
+
+*Error* Syntax error at groupNameColor
+"./novas.rc", 716: 
+
+*Error* Syntax error at commentStringColor
+"./novas.rc", 717: 
+
+*Error* Syntax error at region
+"./novas.rc", 718: 
+
+*Error* Syntax error at region
+"./novas.rc", 719: 
+
+*Error* Syntax error at region
+"./novas.rc", 720: 
+
+*Error* Syntax error at region
+"./novas.rc", 721: 
+
+*Error* Syntax error at region
+"./novas.rc", 722: 
+
+*Error* Syntax error at region
+"./novas.rc", 723: 
+
+*Error* Syntax error at High_Light
+"./novas.rc", 724: 
+
+*Error* Syntax error at Input_Signal
+"./novas.rc", 725: 
+
+*Error* Syntax error at Output_Signal
+"./novas.rc", 726: 
+
+*Error* Syntax error at InOut_Signal
+"./novas.rc", 727: 
+
+*Error* Syntax error at Net_Signal
+"./novas.rc", 728: 
+
+*Error* Syntax error at Register_Signal
+"./novas.rc", 729: 
+
+*Error* Syntax error at Verilog_Signal
+"./novas.rc", 730: 
+
+*Error* Syntax error at VHDL_Signal
+"./novas.rc", 731: 
+
+*Error* Syntax error at SystemC_Signal
+"./novas.rc", 732: 
+
+*Error* Syntax error at Dump_Off_Color
+"./novas.rc", 733: 
+
+*Error* Syntax error at Compress_Bar_Color
+"./novas.rc", 734: 
+
+*Error* Syntax error at Vector_Dense_Block_Color
+"./novas.rc", 735: 
+
+*Error* Syntax error at Scalar_Dense_Block_Color
+"./novas.rc", 736: 
+
+*Error* Syntax error at Analog_Dense_Block_Color
+"./novas.rc", 737: 
+
+*Error* Syntax error at Composite_Dense_Block_Color
+"./novas.rc", 738: 
+
+*Error* Syntax error at RPTR_Power_Off_Layer
+"./novas.rc", 739: 
+
+*Error* Syntax error at DB_Power_Off_Layer
+"./novas.rc", 740: 
+
+*Error* Syntax error at SPA_Driver_Power_Off_Layer
+"./novas.rc", 741: 
+
+*Error* Syntax error at SPA_Receiver_Power_Off_Layer
+"./novas.rc", 742: 
+
+*Error* Syntax error at SRSN_Power_Off_Layer
+"./novas.rc", 743: 
+
+*Error* Syntax error at Isolation_Power_Off_Layer
+"./novas.rc", 744: 
+
+*Error* Syntax error at PD_Power_Off_Layer
+"./novas.rc", 745: 
+
+*Error* Syntax error at Isolation_Layer
+"./novas.rc", 746: 
+
+*Error* Syntax error at Retention_Level_Trigger_Layer
+"./novas.rc", 747: 
+
+*Error* Syntax error at Retention_Edge_Trigger_Layer
+"./novas.rc", 748: 
+
+*Error* Syntax error at Driving_Power_Off_Layer
+"./novas.rc", 749: 
+
+*Error* Syntax error at Toggle_Layer
+"./novas.rc", 750: 
+
+*Error* Syntax error at analogRealStyle
+"./novas.rc", 751: 
+
+*Error* Syntax error at analogVoltageStyle
+"./novas.rc", 752: 
+
+*Error* Syntax error at analogCurrentStyle
+"./novas.rc", 753: 
+
+*Error* Syntax error at analogOthersStyle
+"./novas.rc", 754: 
+
+*Error* Syntax error at busSignalLayer
+"./novas.rc", 755: 
+
+*Error* Syntax error at busZLayer
+"./novas.rc", 756: 
+
+*Error* Syntax error at busMixedLayer
+"./novas.rc", 757: 
+
+*Error* Syntax error at busNotComputedLayer
+"./novas.rc", 758: 
+
+*Error* Syntax error at busNoValueLayer
+"./novas.rc", 759: 
+
+*Error* Syntax error at signalGridLayer
+"./novas.rc", 760: 
+
+*Error* Syntax error at analogGridLayer
+"./novas.rc", 761: 
+
+*Error* Syntax error at analogRulerLayer
+"./novas.rc", 762: 
+
+*Error* Syntax error at keywordLayer
+"./novas.rc", 763: 
+
+*Error* Syntax error at loadedLayer
+"./novas.rc", 764: 
+
+*Error* Syntax error at loadingLayer
+"./novas.rc", 765: 
+
+*Error* Syntax error at qdsCurMarkerLayer
+"./novas.rc", 766: 
+
+*Error* Syntax error at qdsBrkMarkerLayer
+"./novas.rc", 767: 
+
+*Error* Syntax error at qdsTrgMarkerLayer
+"./novas.rc", 768: 
+
+*Error* Syntax error at arrowDefaultColor
+"./novas.rc", 769: 
+
+*Error* Syntax error at startNodeArrowColor
+"./novas.rc", 770: 
+
+*Error* Syntax error at endNodeArrowColor
+"./novas.rc", 771: 
+
+*Error* Syntax error at propertyEventMatchColor
+"./novas.rc", 772: 
+
+*Error* Syntax error at propertyEventNoMatchColor
+"./novas.rc", 773: 
+
+*Error* Syntax error at propertyVacuousSuccessMatchColor
+"./novas.rc", 774: 
+
+*Error* Syntax error at propertyStatusBoundaryColor
+"./novas.rc", 775: 
+
+*Error* Syntax error at propertyBooleanSuccessColor
+"./novas.rc", 776: 
+
+*Error* Syntax error at propertyBooleanFailureColor
+"./novas.rc", 777: 
+
+*Error* Syntax error at propertyAssertSuccessColor
+"./novas.rc", 778: 
+
+*Error* Syntax error at propertyAssertFailureColor
+"./novas.rc", 779: 
+
+*Error* Syntax error at propertyForbidSuccessColor
+"./novas.rc", 780: 
+
+*Error* Syntax error at transactionForegroundColor
+"./novas.rc", 781: 
+
+*Error* Syntax error at transactionBackgroundColor
+"./novas.rc", 782: 
+
+*Error* Syntax error at transactionHighLightColor
+"./novas.rc", 783: 
+
+*Error* Syntax error at transactionRelationshipColor
+"./novas.rc", 784: 
+
+*Error* Syntax error at transactionErrorTypeColor
+"./novas.rc", 785: 
+
+*Error* Syntax error at coverageFullyCoveredColor
+"./novas.rc", 786: 
+
+*Error* Syntax error at coverageNoCoverageColor
+"./novas.rc", 787: 
+
+*Error* Syntax error at coveragePartialCoverageColor
+"./novas.rc", 788: 
+
+*Error* Syntax error at coverageReferenceLineColor
+"./novas.rc", 789: 
+
+*Error* Syntax error at messageForegroundColor
+"./novas.rc", 790: 
+
+*Error* Syntax error at messageBackgroundColor
+"./novas.rc", 791: 
+
+*Error* Syntax error at messageHighLightColor
+"./novas.rc", 792: 
+
+*Error* Syntax error at messageInformationColor
+"./novas.rc", 793: 
+
+*Error* Syntax error at ComputedAnnotColor
+"./novas.rc", 794: 
+
+*Error* Syntax error at fsvSecurityDataColor
+"./novas.rc", 795: 
+
+*Error* Syntax error at qdsAutoBusGroup
+"./novas.rc", 796: 
+
+*Error* Syntax error at qdsTimeStampMode
+"./novas.rc", 797: 
+
+*Error* Syntax error at qdsVbfBusOrderAscending
+"./novas.rc", 798: 
+
+*Error* Syntax error at openDumpFilter
+"./novas.rc", 799: 
+
+*Error* Syntax error at *
+"./novas.rc", 799: 
+
+*Error* Syntax error at DumpFileFilter
+"./novas.rc", 800: 
+
+*Error* Syntax error at RestoreSignalFilter
+"./novas.rc", 801: 
+
+*Error* Syntax error at SaveSignalFilter
+"./novas.rc", 802: 
+
+*Error* Syntax error at AddAliasFilter
+"./novas.rc", 803: 
+
+*Error* Syntax error at *
+"./novas.rc", 803: 
+
+*Error* Syntax error at CompareSignalFilter
+"./novas.rc", 804: 
+
+*Error* Syntax error at ConvertFFFilter
+"./novas.rc", 805: 
+
+*Error* Syntax error at *
+"./novas.rc", 805: 
+
+*Error* Syntax error at Scroll_Ratio
+"./novas.rc", 806: 
+
+*Error* Syntax error at Zoom_Ratio
+"./novas.rc", 807: 
+
+*Error* Syntax error at EventSequence_SyncCursorTime
+"./novas.rc", 808: 
+
+*Error* Syntax error at EventSequence_Sorting
+"./novas.rc", 809: 
+
+*Error* Syntax error at EventSequence_RemoveGrid
+"./novas.rc", 810: 
+
+*Error* Syntax error at EventSequence_IsGridMode
+"./novas.rc", 811: 
+
+*Error* Syntax error at SetDefaultRadix_global
+"./novas.rc", 812: 
+
+*Error* Syntax error at DefaultRadix
+"./novas.rc", 813: 
+
+*Error* Syntax error at SigSearchSignalMatchCase
+"./novas.rc", 814: 
+
+*Error* Syntax error at SigSearchSignalScopeOption
+"./novas.rc", 815: 
+
+*Error* Syntax error at SigSearchSignalSamenetInterface
+"./novas.rc", 816: 
+
+*Error* Syntax error at SigSearchSignalFullScope
+"./novas.rc", 817: 
+
+*Error* Syntax error at SigSearchSignalWithRegExp
+"./novas.rc", 818: 
+
+*Error* Syntax error at SigSearchDynamically
+"./novas.rc", 819: 
+
+*Error* Syntax error at SigDisplayBySelectionOrder
+"./novas.rc", 820: 
+
+*Error* Syntax error at SigDisplayRowMajor
+"./novas.rc", 821: 
+
+*Error* Syntax error at SigDragSelFollowColumn
+"./novas.rc", 822: 
+
+*Error* Syntax error at SigDisplayHierarchyBox
+"./novas.rc", 823: 
+
+*Error* Syntax error at SigDisplaySubscopeBox
+"./novas.rc", 824: 
+
+*Error* Syntax error at SigDisplayEmptyScope
+"./novas.rc", 825: 
+
+*Error* Syntax error at SigDisplaySignalNavigationBox
+"./novas.rc", 826: 
+
+*Error* Syntax error at SigDisplayFormBus
+"./novas.rc", 827: 
+
+*Error* Syntax error at SigShowSubProgram
+"./novas.rc", 828: 
+
+*Error* Syntax error at SigSearchScopeDynamically
+"./novas.rc", 829: 
+
+*Error* Syntax error at SigCollapseSubtreeNodes
+"./novas.rc", 830: 
+
+*Error* Syntax error at activeFileApplyToAnnotation
+"./novas.rc", 831: 
+
+*Error* Syntax error at GrpSelMode
+"./novas.rc", 832: 
+
+*Error* Syntax error at dispGridCount
+"./novas.rc", 833: 
+
+*Error* Syntax error at hierarchyName
+"./novas.rc", 834: 
+
+*Error* Syntax error at partial_level_name
+"./novas.rc", 835: 
+
+*Error* Syntax error at partial_level_head
+"./novas.rc", 836: 
+
+*Error* Syntax error at partial_level_tail
+"./novas.rc", 837: 
+
+*Error* Syntax error at displayMessageLabelOnly
+"./novas.rc", 838: 
+
+*Error* Syntax error at autoInsertDumpoffs
+"./novas.rc", 839: 
+
+*Error* Syntax error at displayMessageCallStack
+"./novas.rc", 840: 
+
+*Error* Syntax error at displayCallStackWithFullSections
+"./novas.rc", 841: 
+
+*Error* Syntax error at displayCallStackWithLastSection
+"./novas.rc", 842: 
+
+*Error* Syntax error at limitMessageMaxWidth
+"./novas.rc", 843: 
+
+*Error* Syntax error at messageMaxWidth
+"./novas.rc", 844: 
+
+*Error* Syntax error at displayTransBySpecificColor
+"./novas.rc", 845: 
+
+*Error* Syntax error at fittedTransHeight
+"./novas.rc", 846: 
+
+*Error* Syntax error at snap
+"./novas.rc", 847: 
+
+*Error* Syntax error at gravitySnap
+"./novas.rc", 848: 
+
+*Error* Syntax error at displayLeadingZero
+"./novas.rc", 849: 
+
+*Error* Syntax error at displayGlitchs
+"./novas.rc", 850: 
+
+*Error* Syntax error at allfileTimeRange
+"./novas.rc", 851: 
+
+*Error* Syntax error at fixDelta
+"./novas.rc", 852: 
+
+*Error* Syntax error at displayCursorMarker
+"./novas.rc", 853: 
+
+*Error* Syntax error at autoUpdate
+"./novas.rc", 854: 
+
+*Error* Syntax error at restoreFromActiveFile
+"./novas.rc", 855: 
+
+*Error* Syntax error at restoreToEnd
+"./novas.rc", 856: 
+
+*Error* Syntax error at dispCompErr
+"./novas.rc", 857: 
+
+*Error* Syntax error at showMsgDes
+"./novas.rc", 858: 
+
+*Error* Syntax error at anaAutoFit
+"./novas.rc", 859: 
+
+*Error* Syntax error at anaAutoPattn
+"./novas.rc", 860: 
+
+*Error* Syntax error at anaAuto100VertFit
+"./novas.rc", 861: 
+
+*Error* Syntax error at displayDeltaY
+"./novas.rc", 862: 
+
+*Error* Syntax error at centerCursor
+"./novas.rc", 863: 
+
+*Error* Syntax error at denseBlockDrawing
+"./novas.rc", 864: 
+
+*Error* Syntax error at relativeFreqPrecision
+"./novas.rc", 865: 
+
+*Error* Syntax error at showMarkerAbsolute
+"./novas.rc", 866: 
+
+*Error* Syntax error at showMarkerAdjacent
+"./novas.rc", 867: 
+
+*Error* Syntax error at showMarkerRelative
+"./novas.rc", 868: 
+
+*Error* Syntax error at showMarkerFrequency
+"./novas.rc", 869: 
+
+*Error* Syntax error at stickCursorMarkerOnWaveform
+"./novas.rc", 870: 
+
+*Error* Syntax error at keepMarkerAtEndTimeOfTransaction
+"./novas.rc", 871: 
+
+*Error* Syntax error at doubleClickToExpandTransaction
+"./novas.rc", 872: 
+
+*Error* Syntax error at expandTransactionAssociatedSignals
+"./novas.rc", 873: 
+
+*Error* Syntax error at expandTransactionAttributeSignals
+"./novas.rc", 874: 
+
+*Error* Syntax error at WaveExtendLastTick
+"./novas.rc", 875: 
+
+*Error* Syntax error at InOutSignal
+"./novas.rc", 876: 
+
+*Error* Syntax error at NetRegisterSignal
+"./novas.rc", 877: 
+
+*Error* Syntax error at VerilogVHDLSignal
+"./novas.rc", 878: 
+
+*Error* Syntax error at LabelMarker
+"./novas.rc", 879: 
+
+*Error* Syntax error at ResolveSymbolicLink
+"./novas.rc", 880: 
+
+*Error* Syntax error at signal_rc_abspath
+"./novas.rc", 881: 
+
+*Error* Syntax error at signal_rc_no_natural_bus_range
+"./novas.rc", 882: 
+
+*Error* Syntax error at save_scope_with_macro
+"./novas.rc", 883: 
+
+*Error* Syntax error at scope_to_save_with_macro
+"./novas.rc", 884: 
+
+*Error* Syntax error at TipInSignalWin
+"./novas.rc", 885: 
+
+*Error* Syntax error at DisplayPackedSiganlInBitwiseManner
+"./novas.rc", 886: 
+
+*Error* Syntax error at DisplaySignalTypeAheadOfSignalName
+"./novas.rc", 887: 
+
+*Error* Syntax error at TipInCurveWin
+"./novas.rc", 888: 
+
+*Error* Syntax error at MouseGesturesInCurveWin
+"./novas.rc", 889: 
+
+*Error* Syntax error at DisplayLSBsFirst
+"./novas.rc", 890: 
+
+*Error* Syntax error at PaintSpecificColorPattern
+"./novas.rc", 891: 
+
+*Error* Syntax error at ModuleName
+"./novas.rc", 892: 
+
+*Error* Syntax error at form_all_memory_signal
+"./novas.rc", 893: 
+
+*Error* Syntax error at formBusSignalFromPartSelects
+"./novas.rc", 894: 
+
+*Error* Syntax error at read_value_change_on_demand_for_drawing
+"./novas.rc", 895: 
+
+*Error* Syntax error at load_scopes_on_demand
+"./novas.rc", 896: 
+
+*Error* Syntax error at TransitionMode
+"./novas.rc", 897: 
+
+*Error* Syntax error at DisplayRadix
+"./novas.rc", 898: 
+
+*Error* Syntax error at SchemaX
+"./novas.rc", 899: 
+
+*Error* Syntax error at Hilight
+"./novas.rc", 900: 
+
+*Error* Syntax error at UseBeforeValue
+"./novas.rc", 901: 
+
+*Error* Syntax error at DisplayFileNameAheadOfSignalName
+"./novas.rc", 902: 
+
+*Error* Syntax error at DisplayFileNumberAheadOfSignalName
+"./novas.rc", 903: 
+
+*Error* Syntax error at DisplayValueSpace
+"./novas.rc", 904: 
+
+*Error* Syntax error at FitAnaByBusSize
+"./novas.rc", 905: 
+
+*Error* Syntax error at displayTransactionAttributeName
+"./novas.rc", 906: 
+
+*Error* Syntax error at expandOverlappedTrans
+"./novas.rc", 907: 
+
+*Error* Syntax error at dispSamplePointForAttrSig
+"./novas.rc", 908: 
+
+*Error* Syntax error at dispClassName
+"./novas.rc", 909: 
+
+*Error* Syntax error at ReloadActiveFileOnly
+"./novas.rc", 910: 
+
+*Error* Syntax error at NormalizeEVCD
+"./novas.rc", 911: 
+
+*Error* Syntax error at OverwriteAliasWithRC
+"./novas.rc", 912: 
+
+*Error* Syntax error at overlay_added_analog_signals
+"./novas.rc", 913: 
+
+*Error* Syntax error at case_insensitive
+"./novas.rc", 914: 
+
+*Error* Syntax error at vhdlVariableCalculate
+"./novas.rc", 915: 
+
+*Error* Syntax error at showError
+"./novas.rc", 916: 
+
+*Error* Syntax error at signal_vertical_scroll_bar
+"./novas.rc", 917: 
+
+*Error* Syntax error at showPortNameForDroppedInstance
+"./novas.rc", 918: 
+
+*Error* Syntax error at truncateFilePathInTitleBar
+"./novas.rc", 919: 
+
+*Error* Syntax error at filterPropVacuousSuccess
+"./novas.rc", 920: 
+
+*Error* Syntax error at includeLocalSignals
+"./novas.rc", 921: 
+
+*Error* Syntax error at encloseSignalsByGroup
+"./novas.rc", 922: 
+
+*Error* Syntax error at resaveSignals
+"./novas.rc", 923: 
+
+*Error* Syntax error at adjustBusPrefix
+"./novas.rc", 924: 
+
+*Error* Syntax error at adjustBusBits
+"./novas.rc", 925: 
+
+*Error* Syntax error at adjustBusSettings
+"./novas.rc", 926: 
+
+*Error* Syntax error at maskPowerOff
+"./novas.rc", 927: 
+
+*Error* Syntax error at maskIsolation
+"./novas.rc", 928: 
+
+*Error* Syntax error at maskRetention
+"./novas.rc", 929: 
+
+*Error* Syntax error at maskDrivingPowerOff
+"./novas.rc", 930: 
+
+*Error* Syntax error at maskToggle
+"./novas.rc", 931: 
+
+*Error* Syntax error at autoBackupSignals
+"./novas.rc", 932: 
+
+*Error* Syntax error at signal_rc_attribute
+"./novas.rc", 933: 
+
+*Error* Syntax error at signal_rc_alias_attribute
+"./novas.rc", 934: 
+
+*Error* Syntax error at ConvertAttr1
+"./novas.rc", 935: 
+
+*Error* Syntax error at ConvertAttr2
+"./novas.rc", 936: 
+
+*Error* Syntax error at ConvertAttr3
+"./novas.rc", 937: 
+
+*Error* Syntax error at ConvertAttr4
+"./novas.rc", 938: 
+
+*Error* Syntax error at ConvertAttr5
+"./novas.rc", 939: 
+
+*Error* Syntax error at ConvertAttr6
+"./novas.rc", 940: 
+
+*Error* Syntax error at ConvertAttr7
+"./novas.rc", 941: 
+
+*Error* Syntax error at ConvertAttr8
+"./novas.rc", 942: 
+
+*Error* Syntax error at ConvertAttr9
+"./novas.rc", 943: 
+
+*Error* Syntax error at ConvertAttr10
+"./novas.rc", 944: 
+
+*Error* Syntax error at ConvertAttr11
+"./novas.rc", 945: 
+
+*Error* Syntax error at analogFmtPrecision
+"./novas.rc", 946: 
+
+*Error* Syntax error at confirmOverwrite
+"./novas.rc", 947: 
+
+*Error* Syntax error at confirmExit
+"./novas.rc", 948: 
+
+*Error* Syntax error at confirmGetAll
+"./novas.rc", 949: 
+
+*Error* Syntax error at printTimeRange
+"./novas.rc", 950: 
+
+*Error* Syntax error at printPageRange
+"./novas.rc", 951: 
+
+*Error* Syntax error at printOption
+"./novas.rc", 952: 
+
+*Error* Syntax error at printBasic
+"./novas.rc", 953: 
+
+*Error* Syntax error at printDest
+"./novas.rc", 954: 
+
+*Error* Syntax error at printSignature
+"./novas.rc", 955: 
+
+*Error* Syntax error at curveWindow_Drag
+"./novas.rc", 956: 
+
+*Error* Syntax error at hspiceIncOpenMode
+"./novas.rc", 957: 
+
+*Error* Syntax error at pcSelectMode
+"./novas.rc", 958: 
+
+*Error* Syntax error at hierarchyDelimiter
+"./novas.rc", 959: 
+
+*Error* Syntax error at open_file_time_range
+"./novas.rc", 960: 
+
+*Error* Syntax error at open_file_dir
+"./novas.rc", 961: 
+
+*Error* Syntax error at open_rc_file_dir
+"./novas.rc", 962: 
+
+*Error* Syntax error at value_window_aligment
+"./novas.rc", 963: 
+
+*Error* Syntax error at signal_window_alignment
+"./novas.rc", 964: 
+
+*Error* Syntax error at ShowDeltaTime
+"./novas.rc", 965: 
+
+*Error* Syntax error at legend_window_font
+"./novas.rc", 966: 
+
+*Error* Syntax error at value_window_font
+"./novas.rc", 967: 
+
+*Error* Syntax error at curve_window_font
+"./novas.rc", 968: 
+
+*Error* Syntax error at group_name_font
+"./novas.rc", 969: 
+
+*Error* Syntax error at ruler_value_font
+"./novas.rc", 970: 
+
+*Error* Syntax error at analog_ruler_value_font
+"./novas.rc", 971: 
+
+*Error* Syntax error at comment_string_font
+"./novas.rc", 972: 
+
+*Error* Syntax error at getsignal_form_font
+"./novas.rc", 973: 
+
+*Error* Syntax error at SigsCheckNum
+"./novas.rc", 974: 
+
+*Error* Syntax error at filter_synthesized_net
+"./novas.rc", 975: 
+
+*Error* Syntax error at filterOutNet
+"./novas.rc", 976: 
+
+*Error* Syntax error at filter_synthesized_instance
+"./novas.rc", 977: 
+
+*Error* Syntax error at filterOutInstance
+"./novas.rc", 978: 
+
+*Error* Syntax error at showGroupTree
+"./novas.rc", 979: 
+
+*Error* Syntax error at hierGroupDelim
+"./novas.rc", 980: 
+
+*Error* Syntax error at MsgSeverityColor
+"./novas.rc", 981: 
+
+*Error* Syntax error at ID_GREEN7
+"./novas.rc", 982: 
+
+*Error* Syntax error at AutoApplySeverityColor
+"./novas.rc", 983: 
+
+*Error* Syntax error at AutoAdjustMsgWidthByLabel
+"./novas.rc", 984: 
+
+*Error* Syntax error at verilogStrengthDispType
+"./novas.rc", 985: 
+
+*Error* Syntax error at waveDblClkActiveTrace
+"./novas.rc", 986: 
+
+*Error* Syntax error at autoConnectTBrowser
+"./novas.rc", 987: 
+
+*Error* Syntax error at connectTBrowserInContainer
+"./novas.rc", 988: 
+
+*Error* Syntax error at SEQShowComparisonIcon
+"./novas.rc", 989: 
+
+*Error* Syntax error at SEQAddDriverLoadInSameGroup
+"./novas.rc", 990: 
+
+*Error* Syntax error at autoSyncCursorMarker
+"./novas.rc", 991: 
+
+*Error* Syntax error at autoSyncHorizontalRange
+"./novas.rc", 992: 
+
+*Error* Syntax error at autoSyncVerticalScroll
+"./novas.rc", 993: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 994: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 994: 
+
+*Error* Syntax error at sou_uncov
+"./novas.rc", 997: 
+
+*Error* Syntax error at sou_pc
+"./novas.rc", 998: 
+
+*Error* Syntax error at sou_cov
+"./novas.rc", 999: 
+
+*Error* Syntax error at sou_exuncov
+"./novas.rc", 1000: 
+
+*Error* Syntax error at sou_excov
+"./novas.rc", 1001: 
+
+*Error* Syntax error at sou_unreach
+"./novas.rc", 1002: 
+
+*Error* Syntax error at sou_unreachcon
+"./novas.rc", 1003: 
+
+*Error* Syntax error at sou_fillColor_uncov
+"./novas.rc", 1004: 
+
+*Error* Syntax error at sou_fillColor_pc
+"./novas.rc", 1005: 
+
+*Error* Syntax error at sou_fillColor_cov
+"./novas.rc", 1006: 
+
+*Error* Syntax error at sou_fillColor_exuncov
+"./novas.rc", 1007: 
+
+*Error* Syntax error at sou_fillColor_excov
+"./novas.rc", 1008: 
+
+*Error* Syntax error at sou_fillColor_unreach
+"./novas.rc", 1009: 
+
+*Error* Syntax error at sou_fillColor_unreachcon
+"./novas.rc", 1010: 
+
+*Error* Syntax error at numberOfBins
+"./novas.rc", 1011: 
+
+*Error* Syntax error at rangeMin_0
+"./novas.rc", 1012: 
+
+*Error* Syntax error at rangeMax_0
+"./novas.rc", 1013: 
+
+*Error* Syntax error at fillColor_0
+"./novas.rc", 1014: 
+
+*Error* Syntax error at rangeMin_1
+"./novas.rc", 1015: 
+
+*Error* Syntax error at rangeMax_1
+"./novas.rc", 1016: 
+
+*Error* Syntax error at fillColor_1
+"./novas.rc", 1017: 
+
+*Error* Syntax error at rangeMin_2
+"./novas.rc", 1018: 
+
+*Error* Syntax error at rangeMax_2
+"./novas.rc", 1019: 
+
+*Error* Syntax error at fillColor_2
+"./novas.rc", 1020: 
+
+*Error* Syntax error at rangeMin_3
+"./novas.rc", 1021: 
+
+*Error* Syntax error at rangeMax_3
+"./novas.rc", 1022: 
+
+*Error* Syntax error at fillColor_3
+"./novas.rc", 1023: 
+
+*Error* Syntax error at rangeMin_4
+"./novas.rc", 1024: 
+
+*Error* Syntax error at rangeMax_4
+"./novas.rc", 1025: 
+
+*Error* Syntax error at fillColor_4
+"./novas.rc", 1026: 
+
+*Error* Syntax error at rangeMin_5
+"./novas.rc", 1027: 
+
+*Error* Syntax error at rangeMax_5
+"./novas.rc", 1028: 
+
+*Error* Syntax error at fillColor_5
+"./novas.rc", 1029: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1030: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1030: 
+
+*Error* Syntax error at urgAppendOptions
+"./novas.rc", 1032: 
+
+*Error* Syntax error at group_instance_new_format_name
+"./novas.rc", 1033: 
+
+*Error* Syntax error at showvalue
+"./novas.rc", 1034: 
+
+*Error* Syntax error at computeGroupsScoreByRatio
+"./novas.rc", 1035: 
+
+*Error* Syntax error at computeGroupsScoreByInst
+"./novas.rc", 1036: 
+
+*Error* Syntax error at showConditionId
+"./novas.rc", 1037: 
+
+*Error* Syntax error at showfullhier
+"./novas.rc", 1038: 
+
+*Error* Syntax error at nameLeftAlignment
+"./novas.rc", 1039: 
+
+*Error* Syntax error at showAllInfoInTooltips
+"./novas.rc", 1040: 
+
+*Error* Syntax error at copyItemHvpName
+"./novas.rc", 1041: 
+
+*Error* Syntax error at ignoreGroupWeight
+"./novas.rc", 1042: 
+
+*Error* Syntax error at absTestName
+"./novas.rc", 1043: 
+
+*Error* Syntax error at HvpMergeTool
+"./novas.rc", 1044: 
+
+*Error* Syntax error at ShowMergeMenuItem
+"./novas.rc", 1045: 
+
+*Error* Syntax error at fsmScoreMode
+"./novas.rc", 1046: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1047: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1047: 
+
+*Error* Syntax error at cellQuantityManagement
+"./novas.rc", 1049: 
+
+*Error* Syntax error at ManageMode
+"./novas.rc", 1050: 
+
+*Error* Syntax error at SpareCellsPinsManagement
+"./novas.rc", 1051: 
+
+*Error* Syntax error at LogCommitReport
+"./novas.rc", 1052: 
+
+*Error* Syntax error at InputPinStatus
+"./novas.rc", 1053: 
+
+*Error* Syntax error at OutputPinStatus
+"./novas.rc", 1054: 
+
+*Error* Syntax error at NameRule
+"./novas.rc", 1055: 
+
+*Error* Syntax error at RevisedComponentColor
+"./novas.rc", 1056: 
+
+*Error* Syntax error at SpareCellColor
+"./novas.rc", 1057: 
+
+*Error* Syntax error at UserName
+"./novas.rc", 1058: 
+
+*Error* Syntax error at CommentFormat
+"./novas.rc", 1059: 
+
+*Error* Syntax error at PrefixN
+"./novas.rc", 1060: 
+
+*Error* Syntax error at PrefixP
+"./novas.rc", 1061: 
+
+*Error* Syntax error at PrefixI
+"./novas.rc", 1062: 
+
+*Error* Syntax error at DefaultTieUpNet
+"./novas.rc", 1063: 
+
+*Error* Syntax error at DefaultTieDownNet
+"./novas.rc", 1064: 
+
+*Error* Syntax error at MultipleInstantiations
+"./novas.rc", 1065: 
+
+*Error* Syntax error at KeepClockPinConnection
+"./novas.rc", 1066: 
+
+*Error* Syntax error at KeepAsyncResetPinConnection
+"./novas.rc", 1067: 
+
+*Error* Syntax error at ScriptFileModeType
+"./novas.rc", 1068: 
+
+*Error* Syntax error at MagmaScriptPower
+"./novas.rc", 1069: 
+
+*Error* Syntax error at MagmaScriptGround
+"./novas.rc", 1070: 
+
+*Error* Syntax error at ShowModeMsg
+"./novas.rc", 1071: 
+
+*Error* Syntax error at AstroScriptPower
+"./novas.rc", 1072: 
+
+*Error* Syntax error at AstroScriptGround
+"./novas.rc", 1073: 
+
+*Error* Syntax error at ClearFloatingPorts
+"./novas.rc", 1074: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1075: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1075: 
+
+*Error* Syntax error at /
+"./novas.rc", 1076: 
+
+*Error* Syntax error at SerialNet
+"./novas.rc", 1077: 
+
+*Error* Syntax error at SerialPort
+"./novas.rc", 1078: 
+
+*Error* Syntax error at SerialInst
+"./novas.rc", 1079: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1080: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1080: 
+
+*Error* Syntax error at TPName
+"./novas.rc", 1082: 
+
+*Error* Syntax error at TPPath
+"./novas.rc", 1083: 
+
+*Error* Syntax error at TPOption
+"./novas.rc", 1084: 
+
+*Error* Syntax error at AddImportArgument
+"./novas.rc", 1085: 
+
+*Error* Syntax error at LineBreakWithScope
+"./novas.rc", 1086: 
+
+*Error* Syntax error at StopAfterCompileOption
+"./novas.rc", 1087: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1088: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1088: 
+
+*Error* Syntax error at =
+"./novas.rc", 1090: 
+
+*Error* Syntax error at autoTurnOffHideMeetGoalInit
+"./novas.rc", 1091: 
+
+*Error* Syntax error at autoTurnOffHideMeetGoal
+"./novas.rc", 1092: 
+
+*Error* Syntax error at autoTurnOffModifierInit
+"./novas.rc", 1093: 
+
+*Error* Syntax error at autoTurnOffModifier
+"./novas.rc", 1094: 
+
+*Error* Syntax error at enableNumbering
+"./novas.rc", 1095: 
+
+*Error* Syntax error at autoSaveCheck
+"./novas.rc", 1096: 
+
+*Error* Syntax error at autoSaveTime
+"./novas.rc", 1097: 
+
+*Error* Syntax error at ShowMissingScore
+"./novas.rc", 1098: 
+
+*Error* Syntax error at enableFeatureId
+"./novas.rc", 1099: 
+
+*Error* Syntax error at enable_HVP_FEAT_ID
+"./novas.rc", 1100: 
+
+*Error* Syntax error at enableMeasureConcealment
+"./novas.rc", 1101: 
+
+*Error* Syntax error at HvpCloneHierShowMsgAgain
+"./novas.rc", 1102: 
+
+*Error* Syntax error at HvpCloneHierType
+"./novas.rc", 1103: 
+
+*Error* Syntax error at HvpCloneHierMetrics
+"./novas.rc", 1104: 
+
+*Error* Syntax error at autoRecalPlanAfterLoadingCovDBUserDataPlan
+"./novas.rc", 1105: 
+
+*Error* Syntax error at warnMeAutoRecalPlanAfterLoadingCovDBUserDataPlan
+"./novas.rc", 1106: 
+
+*Error* Syntax error at autoRecalExclWithPlan
+"./novas.rc", 1107: 
+
+*Error* Syntax error at warnMeAutoRecalExclWithPlan
+"./novas.rc", 1108: 
+
+*Error* Syntax error at autoRecalPlanWithExcl
+"./novas.rc", 1109: 
+
+*Error* Syntax error at warnMeAutoRecalPlanWithExcl
+"./novas.rc", 1110: 
+
+*Error* Syntax error at warnPopupWarnWhenMultiFilters
+"./novas.rc", 1111: 
+
+*Error* Syntax error at warnPopupWarnIfHvpReadOnly
+"./novas.rc", 1112: 
+
+*Error* Syntax error at unmappedObjsReportLevel
+"./novas.rc", 1113: 
+
+*Error* Syntax error at unmappedObjsReportInst
+"./novas.rc", 1114: 
+
+*Error* Syntax error at unmappedObjsNumOfObjs
+"./novas.rc", 1115: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1116: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1116: 
+
+*Warning* symbol TPLanguage duplicated
+"./novas.rc", 1117: 
+
+*Error* Syntax error at TPName
+"./novas.rc", 1118: 
+
+*Error* Syntax error at TPPath
+"./novas.rc", 1119: 
+
+*Error* Syntax error at TPOption
+"./novas.rc", 1120: 
+
+*Error* Syntax error at AddImportArgument
+"./novas.rc", 1121: 
+
+*Error* Syntax error at LineBreakWithScope
+"./novas.rc", 1122: 
+
+*Error* Syntax error at StopAfterCompileOption
+"./novas.rc", 1123: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1124: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1124: 
+
+*Error* Syntax error at libPath
+"./novas.rc", 1126: 
+
+*Error* Syntax error at libDir
+"./novas.rc", 1127: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1128: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1128: 
+
+*Error* Syntax error at 180
+"./novas.rc", 1129: 
+
+*Error* Syntax error at EditorViewport
+"./novas.rc", 1130: 
+
+*Error* Syntax error at EditorHeightWidth
+"./novas.rc", 1131: 
+
+*Error* Syntax error at WaveCommand
+"./novas.rc", 1132: 
+
+*Error* Syntax error at WaveArgs
+"./novas.rc", 1133: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1134: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1134: 
+
+*Error* Syntax error at dispMode
+"./novas.rc", 1137: 
+
+*Error* Syntax error at addrColWidth
+"./novas.rc", 1138: 
+
+*Error* Syntax error at valueColWidth
+"./novas.rc", 1139: 
+
+*Error* Syntax error at showCellBitRangeWithAddr
+"./novas.rc", 1140: 
+
+*Error* Syntax error at wordsShownInOneRow
+"./novas.rc", 1141: 
+
+*Error* Syntax error at syncCursorTime
+"./novas.rc", 1142: 
+
+*Error* Syntax error at fixCellColumnWidth
+"./novas.rc", 1143: 
+
+*Error* Syntax error at font
+"./novas.rc", 1144: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1145: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1145: 
+
+*Error* Syntax error at plan_fillColor_warning
+"./novas.rc", 1147: 
+
+*Error* Syntax error at plan_fillColor_error
+"./novas.rc", 1148: 
+
+*Error* Syntax error at plan_fillColor_invalid
+"./novas.rc", 1149: 
+
+*Error* Syntax error at plan_fillColor_subplan
+"./novas.rc", 1150: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1151: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1151: 
+
+*Warning* symbol viewport duplicated
+"./novas.rc", 1152: 
+
+*Error* Syntax error at 262
+"./novas.rc", 1152: 
+
+*Error* Syntax error at schBackgroundColor
+"./novas.rc", 1153: 
+
+*Error* Syntax error at schBackgroundColor_qt
+"./novas.rc", 1154: 
+
+*Error* Syntax error at schBodyColor
+"./novas.rc", 1155: 
+
+*Error* Syntax error at schBodyColor_qt
+"./novas.rc", 1156: 
+
+*Error* Syntax error at schAsmBodyColor
+"./novas.rc", 1157: 
+
+*Error* Syntax error at schAsmBodyColor_qt
+"./novas.rc", 1158: 
+
+*Error* Syntax error at schPortColor
+"./novas.rc", 1159: 
+
+*Error* Syntax error at schPortColor_qt
+"./novas.rc", 1160: 
+
+*Error* Syntax error at schCellNameColor
+"./novas.rc", 1161: 
+
+*Error* Syntax error at schCellNameColor_qt
+"./novas.rc", 1162: 
+
+*Error* Syntax error at schCLKNetColor
+"./novas.rc", 1163: 
+
+*Error* Syntax error at schCLKNetColor_qt
+"./novas.rc", 1164: 
+
+*Error* Syntax error at schPWRNetColor
+"./novas.rc", 1165: 
+
+*Error* Syntax error at schPWRNetColor_qt
+"./novas.rc", 1166: 
+
+*Error* Syntax error at schGNDNetColor
+"./novas.rc", 1167: 
+
+*Error* Syntax error at schGNDNetColor_qt
+"./novas.rc", 1168: 
+
+*Error* Syntax error at schSIGNetColor
+"./novas.rc", 1169: 
+
+*Error* Syntax error at schSIGNetColor_qt
+"./novas.rc", 1170: 
+
+*Error* Syntax error at schTraceColor
+"./novas.rc", 1171: 
+
+*Error* Syntax error at schTraceColor_qt
+"./novas.rc", 1172: 
+
+*Error* Syntax error at schBackAnnotateColor
+"./novas.rc", 1173: 
+
+*Error* Syntax error at schBackAnnotateColor_qt
+"./novas.rc", 1174: 
+
+*Error* Syntax error at schValue0
+"./novas.rc", 1175: 
+
+*Error* Syntax error at schValue0_qt
+"./novas.rc", 1176: 
+
+*Error* Syntax error at schValue1
+"./novas.rc", 1177: 
+
+*Error* Syntax error at schValue1_qt
+"./novas.rc", 1178: 
+
+*Error* Syntax error at schValueX
+"./novas.rc", 1179: 
+
+*Error* Syntax error at schValueX_qt
+"./novas.rc", 1180: 
+
+*Error* Syntax error at schValueZ
+"./novas.rc", 1181: 
+
+*Error* Syntax error at schValueZ_qt
+"./novas.rc", 1182: 
+
+*Error* Syntax error at dimColor
+"./novas.rc", 1183: 
+
+*Error* Syntax error at dimColor_qt
+"./novas.rc", 1184: 
+
+*Error* Syntax error at schPreSelColor
+"./novas.rc", 1185: 
+
+*Error* Syntax error at schPreSelColor_qt
+"./novas.rc", 1186: 
+
+*Error* Syntax error at schSIGBusNetColor
+"./novas.rc", 1187: 
+
+*Error* Syntax error at schSIGBusNetColor_qt
+"./novas.rc", 1188: 
+
+*Error* Syntax error at schGNDBusNetColor
+"./novas.rc", 1189: 
+
+*Error* Syntax error at schGNDBusNetColor_qt
+"./novas.rc", 1190: 
+
+*Error* Syntax error at schPWRBusNetColor
+"./novas.rc", 1191: 
+
+*Error* Syntax error at schPWRBusNetColor_qt
+"./novas.rc", 1192: 
+
+*Error* Syntax error at schCLKBusNetColor
+"./novas.rc", 1193: 
+
+*Error* Syntax error at schCLKBusNetColor_qt
+"./novas.rc", 1194: 
+
+*Error* Syntax error at schEdgeSensitiveColor
+"./novas.rc", 1195: 
+
+*Error* Syntax error at schEdgeSensitiveColor_qt
+"./novas.rc", 1196: 
+
+*Error* Syntax error at schAnnotColor
+"./novas.rc", 1197: 
+
+*Error* Syntax error at schAnnotColor_qt
+"./novas.rc", 1198: 
+
+*Error* Syntax error at schInstNameColor
+"./novas.rc", 1199: 
+
+*Error* Syntax error at schInstNameColor_qt
+"./novas.rc", 1200: 
+
+*Error* Syntax error at schPortNameColor
+"./novas.rc", 1201: 
+
+*Error* Syntax error at schPortNameColor_qt
+"./novas.rc", 1202: 
+
+*Error* Syntax error at schAsmLatchColor
+"./novas.rc", 1203: 
+
+*Error* Syntax error at schAsmLatchColor_qt
+"./novas.rc", 1204: 
+
+*Error* Syntax error at schAsmRegColor
+"./novas.rc", 1205: 
+
+*Error* Syntax error at schAsmRegColor_qt
+"./novas.rc", 1206: 
+
+*Error* Syntax error at schAsmTriColor
+"./novas.rc", 1207: 
+
+*Error* Syntax error at schAsmTriColor_qt
+"./novas.rc", 1208: 
+
+*Error* Syntax error at pre_select
+"./novas.rc", 1209: 
+
+*Error* Syntax error at ShowPassThroughNet
+"./novas.rc", 1210: 
+
+*Error* Syntax error at ComputedAnnotColor
+"./novas.rc", 1211: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1212: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1212: 
+
+*Error* Syntax error at DesignName
+"./novas.rc", 1214: 
+
+*Error* Syntax error at DesignerName
+"./novas.rc", 1215: 
+
+*Error* Syntax error at SignatureLocation
+"./novas.rc", 1216: 
+
+*Error* Syntax error at MultiPage
+"./novas.rc", 1217: 
+
+*Error* Syntax error at AutoSliver
+"./novas.rc", 1218: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1219: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1219: 
+
+*Error* Syntax error at BackgroundInactive
+"./novas.rc", 1221: 
+
+*Error* Syntax error at InactiveCode
+"./novas.rc", 1222: 
+
+*Error* Syntax error at Selection
+"./novas.rc", 1223: 
+
+*Error* Syntax error at Standard
+"./novas.rc", 1224: 
+
+*Error* Syntax error at Keyword
+"./novas.rc", 1225: 
+
+*Error* Syntax error at Comment
+"./novas.rc", 1226: 
+
+*Error* Syntax error at Number
+"./novas.rc", 1227: 
+
+*Error* Syntax error at String
+"./novas.rc", 1228: 
+
+*Error* Syntax error at Identifier
+"./novas.rc", 1229: 
+
+*Error* Syntax error at Inline
+"./novas.rc", 1230: 
+
+*Error* Syntax error at colorIdentifier
+"./novas.rc", 1231: 
+
+*Error* Syntax error at Value
+"./novas.rc", 1232: 
+
+*Error* Syntax error at MacroBackground
+"./novas.rc", 1233: 
+
+*Error* Syntax error at Missing
+"./novas.rc", 1234: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1235: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1235: 
+
+*Error* Syntax error at #
+"./novas.rc", 1236: 
+
+*Error* Syntax error at top_plan_ignore
+"./novas.rc", 1237: 
+
+*Error* Syntax error at top_plan_todo
+"./novas.rc", 1238: 
+
+*Error* Syntax error at sub_plan_ignore
+"./novas.rc", 1239: 
+
+*Error* Syntax error at sub_plan_todo
+"./novas.rc", 1240: 
+
+*Error* Syntax error at sub_plan_linked
+"./novas.rc", 1241: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1242: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1242: 
+
+*Error* Syntax error at goto_section
+"./novas.rc", 1244: 
+
+*Error* Syntax error at exclude_ignore
+"./novas.rc", 1245: 
+
+*Error* Syntax error at truncate_abstract
+"./novas.rc", 1246: 
+
+*Error* Syntax error at abstract_length
+"./novas.rc", 1247: 
+
+*Error* Syntax error at compare_strategy
+"./novas.rc", 1248: 
+
+*Error* Syntax error at auto_apply_margin
+"./novas.rc", 1249: 
+
+*Error* Syntax error at margin_top
+"./novas.rc", 1250: 
+
+*Error* Syntax error at margin_bottom
+"./novas.rc", 1251: 
+
+*Error* Syntax error at margin_left
+"./novas.rc", 1252: 
+
+*Error* Syntax error at margin_right
+"./novas.rc", 1253: 
+
+*Error* Syntax error at margin_unit
+"./novas.rc", 1254: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1255: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1255: 
+
+*Error* Syntax error at InstrumentSig
+"./novas.rc", 1257: 
+
+*Error* Syntax error at InterfaceElement
+"./novas.rc", 1258: 
+
+*Error* Syntax error at Run
+"./novas.rc", 1259: 
+
+*Error* Syntax error at HighlightThroughNet
+"./novas.rc", 1260: 
+
+*Error* Syntax error at HighlightInterfaceElement
+"./novas.rc", 1261: 
+
+*Error* Syntax error at HighlightRuntimeInterfaceElement
+"./novas.rc", 1262: 
+
+*Error* Syntax error at HighlightSameNet
+"./novas.rc", 1263: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1264: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1264: 
+
+*Warning* symbol TPLanguage duplicated
+"./novas.rc", 1265: 
+
+*Error* Syntax error at TPName
+"./novas.rc", 1266: 
+
+*Error* Syntax error at TPPath
+"./novas.rc", 1267: 
+
+*Error* Syntax error at TPOption
+"./novas.rc", 1268: 
+
+*Error* Syntax error at AddImportArgument
+"./novas.rc", 1269: 
+
+*Error* Syntax error at LineBreakWithScope
+"./novas.rc", 1270: 
+
+*Error* Syntax error at StopAfterCompileOption
+"./novas.rc", 1271: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1272: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1272: 
+
+*Warning* symbol Orientation duplicated
+"./novas.rc", 1273: 
+
+*Error* Syntax error at bdb_load_scope
+"./novas.rc", 1275: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1276: 
+
+*Error* usage of [ is supported only if the option '-sv' is specified
+"./novas.rc", 1276: 
+
+*Error* Syntax error at [
+"./novas.rc", 1278: 
+
+*Error* Syntax error at TPLanguage
+"./novas.rc", 1279: 
+
+*Error* Syntax error at TPName
+"./novas.rc", 1280: 
+
+*Error* Syntax error at TPPath
+"./novas.rc", 1281: 
+
+*Error* Syntax error at TPOption
+"./novas.rc", 1282: 
+
+*Error* Syntax error at AddImportArgument
+"./novas.rc", 1283: 
+
+*Error* Syntax error at LineBreakWithScope
+"./novas.rc", 1284: 
+
+*Error* Syntax error at StopAfterCompileOption
+"./novas.rc", 1285: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1286: 
+
+*Error* Syntax error at 0
+"./novas.rc", 1286: 
+
+*Error* Syntax error at viewPort
+"./novas.rc", 1287: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1288: 
+
+*Error* Syntax error at 1
+"./novas.rc", 1288: 
+
+*Error* Syntax error at viewPort
+"./novas.rc", 1289: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1290: 
+
+*Error* Syntax error at 2
+"./novas.rc", 1290: 
+
+*Error* Syntax error at viewPort
+"./novas.rc", 1291: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1292: 
+
+*Error* Syntax error at 3
+"./novas.rc", 1292: 
+
+*Error* Syntax error at viewPort
+"./novas.rc", 1293: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1294: 
+
+*Error* Syntax error at 4
+"./novas.rc", 1294: 
+
+*Error* Syntax error at viewPort
+"./novas.rc", 1295: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1296: 
+
+*Error* Syntax error at 5
+"./novas.rc", 1296: 
+
+*Error* Syntax error at viewPort
+"./novas.rc", 1297: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1298: 
+
+*Error* Syntax error at 6
+"./novas.rc", 1298: 
+
+*Error* Syntax error at viewPort
+"./novas.rc", 1299: 
+
+*Error* usage of using constructs outside of modules or primitives is supported only if the option '-sv' is specified
+"./novas.rc", 1300: 
+
+*Error* Syntax error at 7
+"./novas.rc", 1300: 
+
+*Error* Syntax error at viewPort
+"./novas.rc", 1301: 
+
+*Error* invalid token at ./README.txt:40 (text was '|-cs')
+
+
+*Error* invalid token at ./README.txt:41 (text was '|-rst')
+
+
+*Error* invalid token at ./README.txt:44 (text was '|-f')
+
+
+*Error* invalid token at ./README.txt:45 (text was '|-vel')
+
+
+*Error* invalid token at ./README.txt:46 (text was '|-les')
+
+
+*Error* invalid token at ./README.txt:49 (text was '|-les')
+
+
+*Error* invalid token at ./README.txt:50 (text was '|-   ')
+
+
+*Error* invalid token at ./README.txt:51 (text was '|-      ')
+
+
+*Error* invalid token at ./README.txt:52 (text was '|-aibadapt_wrap')
+
+
+*Error* Syntax error at README
+"./README.txt", 1: 
+
+*Error* Syntax error at November
+"./README.txt", 2: 
+
+*Error* Syntax error at ===
+"./README.txt", 4: 
+
+*Error* Syntax error at ===
+"./README.txt", 5: 
+
+*Error* Syntax error at Included
+"./README.txt", 7: 
+
+*Error* Syntax error at 1. 
+"./README.txt", 8: 
+
+*Error* Syntax error at 2. 
+"./README.txt", 9: 
+
+*Error* Syntax error at 3. S
+"./README.txt", 10: 
+
+*Error* Syntax error at 4. 
+"./README.txt", 11: 
+
+*Error* Syntax error at 5. 
+"./README.txt", 12: 
+
+*Error* Syntax error at ===
+"./README.txt", 13: 
+
+*Error* Syntax error at Revision
+"./README.txt", 14: 
+
+*Error* Syntax error at Version
+"./README.txt", 15: 
+
+*Error* Syntax error at Version
+"./README.txt", 16: 
+
+*Error* Syntax error at ===
+"./README.txt", 18: 
+
+*Error* Syntax error at Files
+"./README.txt", 19: 
+
+*Error* Syntax error at ===
+"./README.txt", 20: 
+
+*Error* Syntax error at README
+"./README.txt", 21: 
+
+*Error* Syntax error at ===
+"./README.txt", 23: 
+
+*Error* Syntax error at Quick
+"./README.txt", 25: 
+
+*Error* Syntax error at Directory
+"./README.txt", 26: 
+
+*Error* Syntax error at aib_top_master
+"./README.txt", 27: 
+
+*Error* Syntax error at c3aibadapt_wrap_top
+"./README.txt", 28: 
+
+*Error* Syntax error at c3aib_master
+"./README.txt", 29: 
+
+*Error* Syntax error at c3aibadapt_wrap
+"./README.txt", 30: 
+
+*Error* Syntax error at Directory
+"./README.txt", 32: 
+
+*Error* Syntax error at c3aib_master
+"./README.txt", 33: 
+
+*Error* Syntax error at c3aibadapt_wrap
+"./README.txt", 34: 
+
+*Error* Syntax error at Directory
+"./README.txt", 37: 
+
+*Error* Syntax error at docs
+"./README.txt", 39: 
+
+*Error* Syntax error at |-cs
+"./README.txt", 40: 
+
+*Error* Syntax error at |-rst
+"./README.txt", 41: 
+
+*Error* Syntax error at rtl
+"./README.txt", 43: 
+
+*Error* Syntax error at |-f
+"./README.txt", 44: 
+
+*Error* Syntax error at |-vel
+"./README.txt", 45: 
+
+*Error* Syntax error at |-les
+"./README.txt", 46: 
+
+*Error* Syntax error at aib_lib
+"./README.txt", 48: 
+
+*Error* Syntax error at |-les
+"./README.txt", 49: 
+
+*Error* Syntax error at |-   
+"./README.txt", 50: 
+
+*Error* Syntax error at |-      
+"./README.txt", 51: 
+
+*Error* Syntax error at |-aibadapt_wrap
+"./README.txt", 52: 
+
+*Error* invalid token at ./README.txt:57 (text was '|-st')
+
+
+*Error* invalid token at ./README.txt:58 (text was '|-le')
+
+
+*Error* invalid token at ./README.txt:61 (text was '|-stbench')
+
+
+*Error* invalid token at ./README.txt:62 (text was '|-t')
+
+
+*Error* invalid token at ./README.txt:63 (text was '|-st')
+
+
+*Error* invalid token at ./README.txt:64 (text was '|-sim')
+
+
+*Error* invalid token at ./README.txt:65 (text was '|-fo')
+
+
+*Error* invalid token at ./README.txt:66 (text was '|-')
+
+
+*Error* invalid token at ./README.txt:67 (text was '|-tail')
+
+
+*Error* Syntax error at maib_rtl
+"./README.txt", 54: 
+
+*Error* Syntax error at ndsimslv
+"./README.txt", 56: 
+
+*Error* Syntax error at |-st
+"./README.txt", 57: 
+
+*Error* Syntax error at |-le
+"./README.txt", 58: 
+
+*Error* Syntax error at See
+"./README.txt", 59: 
+
+*Error* Syntax error at how2use
+"./README.txt", 60: 
+
+*Error* Syntax error at |-stbench
+"./README.txt", 61: 
+
+*Error* Syntax error at |-t
+"./README.txt", 62: 
+
+*Error* Syntax error at |-st
+"./README.txt", 63: 
+
+*Error* Syntax error at |-sim
+"./README.txt", 64: 
+
+*Error* Syntax error at |-fo
+"./README.txt", 65: 
+
+*Error* Syntax error at |-
+"./README.txt", 66: 
+
+*Error* Syntax error at |-tail
+"./README.txt", 67: 
+
+*Error* Syntax error at maib_rtl
+"./README.txt", 68: 
+
+*Error* Syntax error at ===
+"./README.txt", 69: 
+
+*Error* Syntax error at How
+"./README.txt", 70: 
+
+*Error* Syntax error at ===
+"./README.txt", 71: 
+
+*Error* Syntax error at cd
+"./README.txt", 72: 
+
+*Error* Syntax error at .
+"./README.txt", 73: 
+
+*Error* Syntax error at .
+"./README.txt", 74: 
+
+*Error* Syntax error at To
+"./README.txt", 76: 
+
+*Error* Syntax error at dve
+"./README.txt", 77: 
+
+*Error* Syntax error at VCS
+"./README.txt", 79: 
+
+*Error* Syntax error at ===
+"./README.txt", 81: 
+
+*Error* Syntax error at How
+"./README.txt", 82: 
+
+*Error* Syntax error at ===
+"./README.txt", 83: 
+
+*Error* Syntax error at .
+"./README.txt", 84: 
+
+*Error* Syntax error at ===
+"./README.txt", 86: 
+
+*Error* Syntax error at How
+"./README.txt", 87: 
+
+*Error* Syntax error at ===
+"./README.txt", 88: 
+
+*Error* Syntax error at .
+"./README.txt", 89: 
+
+*Error* source file './rtl' is a directory
+
+
+*Error* source file './verdiLog' is a directory
+
+Highest level modules:
+
+
+*Error* failed to find identifier qBaseWindowStateGroup
+"./novas.conf", 1: 
+
+*Error* failed to find identifier QwMainWindow
+"./novas.conf", 259: 
+
+*Error* failed to find identifier qBaseWindow_saveRestoreSession_group
+"./novas.conf", 272: 
+
+*Error* failed to find identifier qDockerWindow_C
+"./novas.conf", 275: 
+
+*Error* failed to find identifier Library
+"./novas.rc", 2: 
+
+*Error* failed to find identifier Annotation
+"./novas.rc", 4: 
+
+*Error* failed to find identifier CommandSyntax.finsim
+"./novas.rc", 6: 
+
+*Error* failed to find identifier FullFileName
+"./novas.rc", 8: 
+
+*Error* failed to find identifier CommandSyntax.ikos
+"./novas.rc", 31: 
+
+*Error* failed to find identifier CommandSyntax.verisity
+"./novas.rc", 55: 
+
+*Error* failed to find identifier FullFileName
+"./novas.rc", 57: 
+
+*Error* failed to find identifier CoverageDetail
+"./novas.rc", 84: 
+
+*Error* failed to find identifier CoverageHier
+"./novas.rc", 102: 
+
+*Error* failed to find identifier CoverageWeight
+"./novas.rc", 104: 
+
+*Error* failed to find identifier FALSE[CoverageWeight]
+"./novas.rc", 103: 
+
+*Error* failed to find identifier DesignTree
+"./novas.rc", 112: 
+
+*Error* failed to find identifier TRUE
+"./novas.rc", 113: 
+
+*Error* failed to find identifier FALSE
+"./novas.rc", 113: 
+
+*Error* failed to find identifier Editor
+"./novas.rc", 116: 
+
+*Error* failed to find identifier Emacs
+"./novas.rc", 118: 
+
+*Error* failed to find identifier TurboEditor[Emacs]
+"./novas.rc", 117: 
+
+*Error* failed to find identifier Exclusion
+"./novas.rc", 122: 
+
+*Error* failed to find identifier TRUE
+"./novas.rc", 123: 
+
+*Error* failed to find identifier FSM
+"./novas.rc", 131: 
+
+*Error* failed to find identifier FSM_Dlg
+"./novas.rc", 220: 
+
+*Error* failed to find identifier Print
+"./novas.rc", 220: 
+
+*Error* failed to find identifier Form
+"./novas.rc", 222: 
+
+*Error* failed to find identifier Landscape[Form]
+"./novas.rc", 221: 
+
+*Error* failed to find identifier General
+"./novas.rc", 224: 
+
+*Error* failed to find identifier FALSE
+"./novas.rc", 225: 
+
+*Error* failed to find identifier GlobalProp
+"./novas.rc", 232: 
+
+*Error* failed to find identifier Globals
+"./novas.rc", 234: 
+
+*Error* failed to find identifier Helvetica_M_R_12[Globals]
+"./novas.rc", 233: 
+
+*Error* failed to find identifier HB
+"./novas.rc", 257: 
+
+*Error* failed to find identifier FALSE
+"./novas.rc", 258: 
+
+*Error* failed to find identifier Hier
+"./novas.rc", 266: 
+
+*Error* failed to find identifier Language
+"./novas.rc", 277: 
+
+*Error* failed to find identifier COURIER12
+"./novas.rc", 278: 
+
+*Error* failed to find identifier Library.Ikos
+"./novas.rc", 286: 
+
+*Error* failed to find identifier MDT
+"./novas.rc", 296: 
+
+*Error* failed to find identifier spr[(0 - 9)]
+"./novas.rc", 297: 
+
+*Error* failed to find identifier bx[(0 - 9)]
+"./novas.rc", 297: 
+
+*Error* failed to find identifier ART_RF_2P
+"./novas.rc", 298: 
+
+*Error* failed to find identifier NPExpanding
+"./novas.rc", 306: 
+
+*Error* failed to find identifier FALSE
+"./novas.rc", 307: 
+
+*Error* failed to find identifier NPFilter
+"./novas.rc", 309: 
+
+*Error* failed to find identifier TRUE
+"./novas.rc", 310: 
+
+*Error* failed to find identifier OldFontRC
+"./novas.rc", 315: 
+
+*Error* failed to find identifier f
+"./novas.rc", 316: 
+
+*Error* failed to find identifier OtherEditor
+"./novas.rc", 325: 
+
+*Error* failed to find identifier Power
+"./novas.rc", 329: 
+
+*Error* failed to find identifier ID_GRAY1
+"./novas.rc", 330: 
+
+*Error* failed to find identifier Print
+"./novas.rc", 359: 
+
+*Error* failed to find identifier lp
+"./novas.rc", 360: 
+
+*Error* failed to find identifier PropertyTools
+"./novas.rc", 364: 
+
+*Error* failed to find identifier TRUE
+"./novas.rc", 365: 
+
+*Error* failed to find identifier QtDialog
+"./novas.rc", 368: 
+
+*Error* failed to find identifier Relationship
+"./novas.rc", 371: 
+
+*Error* failed to find identifier Session
+"./novas.rc", 373: 
+
+*Error* failed to find identifier Simulation
+"./novas.rc", 379: 
+
+*Error* failed to find identifier scsim
+"./novas.rc", 380: 
+
+*Error* failed to find identifier SimulationPlus
+"./novas.rc", 411: 
+
+*Error* failed to find identifier verilog
+"./novas.rc", 412: 
+
+*Error* failed to find identifier SimulationPlus2
+"./novas.rc", 444: 
+
+*Error* failed to find identifier Source
+"./novas.rc", 446: 
+
+*Error* failed to find identifier FALSE[Source]
+"./novas.rc", 445: 
+
+*Error* failed to find identifier SourceVHDL
+"./novas.rc", 465: 
+
+*Error* failed to find identifier ModelSim
+"./novas.rc", 466: 
+
+*Error* failed to find identifier TclShell
+"./novas.rc", 468: 
+
+*Error* failed to find identifier Text
+"./novas.rc", 472: 
+
+*Error* failed to find identifier blue4
+"./novas.rc", 473: 
+
+*Error* failed to find identifier Text
+"./novas.rc", 554: 
+
+*Error* failed to find identifier TextPrinter
+"./novas.rc", 556: 
+
+*Error* failed to find identifier Landscape
+"./novas.rc", 557: 
+
+*Error* failed to find identifier Texteditor
+"./novas.rc", 563: 
+
+*Error* failed to find identifier ThirdParty
+"./novas.rc", 567: 
+
+*Error* failed to find identifier verisity
+"./novas.rc", 568: 
+
+*Error* failed to find identifier TurboEditor
+"./novas.rc", 569: 
+
+*Error* failed to find identifier UserButton.mixnc
+"./novas.rc", 571: 
+
+*Error* failed to find identifier TRUE[UserButton.mixnc]
+"./novas.rc", 570: 
+
+*Error* failed to find identifier UserButton.mti
+"./novas.rc", 584: 
+
+*Error* failed to find identifier UserButton.mti_vlog
+"./novas.rc", 592: 
+
+*Error* failed to find identifier UserButton.nc
+"./novas.rc", 600: 
+
+*Error* failed to find identifier UserButton.scs
+"./novas.rc", 608: 
+
+*Error* failed to find identifier UserButton.vhnc
+"./novas.rc", 614: 
+
+*Error* failed to find identifier UserButton.xl
+"./novas.rc", 622: 
+
+*Error* failed to find identifier VIA
+"./novas.rc", 636: 
+
+*Error* failed to find identifier VIA.oneSearch.preference.vgifColumnSettingRC
+"./novas.rc", 641: 
+
+*Error* failed to find identifier VIA.oneSearch.preference.vgifColumnSettingRC.setting0
+"./novas.rc", 642: 
+
+*Error* failed to find identifier VIA.oneSearch.preference.vgifColumnSettingRC.setting0.column1
+"./novas.rc", 650: 
+
+*Error* failed to find identifier Severity
+"./novas.rc", 651: 
+
+*Error* failed to find identifier VIA.oneSearch.preference.vgifColumnSettingRC.setting0.column2
+"./novas.rc", 656: 
+
+*Error* failed to find identifier Code
+"./novas.rc", 657: 
+
+*Error* failed to find identifier VIA.oneSearch.preference.vgifColumnSettingRC.setting0.column3
+"./novas.rc", 662: 
+
+*Error* failed to find identifier Type
+"./novas.rc", 663: 
+
+*Error* failed to find identifier VIA.oneSearch.preference.vgifColumnSettingRC.setting0.column4
+"./novas.rc", 668: 
+
+*Error* failed to find identifier Time
+"./novas.rc", 669: 
+
+*Error* failed to find identifier Vi
+"./novas.rc", 674: 
+
+*Error* failed to find identifier Wave
+"./novas.rc", 678: 
+
+*Error* failed to find identifier c
+"./novas.rc", 679: 
+
+*Error* failed to find identifier cov_hier_name_column
+"./novas.rc", 994: 
+
+*Error* failed to find identifier coverageColors
+"./novas.rc", 996: 
+
+*Error* failed to find identifier TRUE[coverageColors]
+"./novas.rc", 995: 
+
+*Error* failed to find identifier coveragesetting
+"./novas.rc", 1030: 
+
+*Error* failed to find identifier FALSE
+"./novas.rc", 1031: 
+
+*Error* failed to find identifier eco
+"./novas.rc", 1047: 
+
+*Error* failed to find identifier FALSE
+"./novas.rc", 1048: 
+
+*Error* failed to find identifier eco_connection
+"./novas.rc", 1075: 
+
+*Error* failed to find identifier finsim
+"./novas.rc", 1080: 
+
+*Error* failed to find identifier Verilog
+"./novas.rc", 1081: 
+
+*Error* failed to find identifier hvpsetting
+"./novas.rc", 1088: 
+
+*Error* failed to find identifier use_test_loca_as_source
+"./novas.rc", 1090: 
+
+*Error* failed to find identifier ikos
+"./novas.rc", 1116: 
+
+*Error* failed to find identifier VHDL
+"./novas.rc", 1117: 
+
+*Error* failed to find identifier imp
+"./novas.rc", 1124: 
+
+*Error* failed to find identifier NULL
+"./novas.rc", 1125: 
+
+*Error* failed to find identifier nCompare
+"./novas.rc", 1128: 
+
+*Error* failed to find identifier nCompare.Wnd0
+"./novas.rc", 1134: 
+
+*Error* failed to find identifier nMemory
+"./novas.rc", 1136: 
+
+*Error* failed to find identifier FALSE[nMemory]
+"./novas.rc", 1135: 
+
+*Error* failed to find identifier planColors
+"./novas.rc", 1145: 
+
+*Error* failed to find identifier lightGray
+"./novas.rc", 1146: 
+
+*Error* failed to find identifier schematics
+"./novas.rc", 1151: 
+
+*Error* failed to find identifier schematics_print
+"./novas.rc", 1212: 
+
+*Error* failed to find identifier FALSE
+"./novas.rc", 1213: 
+
+*Error* failed to find identifier sourceColors
+"./novas.rc", 1219: 
+
+*Error* failed to find identifier gray88
+"./novas.rc", 1220: 
+
+*Error* failed to find identifier specColors
+"./novas.rc", 1235: 
+
+*Error* failed to find identifier spec_link_setting
+"./novas.rc", 1242: 
+
+*Error* failed to find identifier true
+"./novas.rc", 1243: 
+
+*Error* failed to find identifier spiceDebug
+"./novas.rc", 1255: 
+
+*Error* failed to find identifier ID_YELLOW5
+"./novas.rc", 1256: 
+
+*Error* failed to find identifier surefire
+"./novas.rc", 1264: 
+
+*Error* failed to find identifier Verilog
+"./novas.rc", 1265: 
+
+*Error* failed to find identifier turboSchema_Printer_Options
+"./novas.rc", 1272: 
+
+*Error* failed to find identifier turbo_library
+"./novas.rc", 1274: 
+
+*Error* failed to find identifier Landscape[turbo_library]
+"./novas.rc", 1273: 
+
+*Error* failed to find identifier vdCovFilteringSearchesStrings
+"./novas.rc", 1276: 
+
+*Error* failed to find identifier wave
+"./novas.rc", 1286: 
+
+*Error* failed to find identifier wave
+"./novas.rc", 1288: 
+
+*Error* failed to find identifier wave
+"./novas.rc", 1290: 
+
+*Error* failed to find identifier wave
+"./novas.rc", 1292: 
+
+*Error* failed to find identifier wave
+"./novas.rc", 1294: 
+
+*Error* failed to find identifier wave
+"./novas.rc", 1296: 
+
+*Error* failed to find identifier wave
+"./novas.rc", 1298: 
+
+*Error* failed to find identifier wave
+"./novas.rc", 1300: 
+Total	1859 error(s),   15 warning(s)
